@@ -20,13 +20,26 @@ A random french dev that programs mainly in JS. Discord enthusiast, I have also 
   * Random small projects, usually finished : [Granahir2/Frankgame](https://github.com/Granahir2/Frankgame) or [vocaloidWinterGame](https://github.com/LoganTann/vocaloidWinterGame)
   * And maybe what you're looking for, my main projects. It's always about the subject of my community, which is a japanese mixed-media project titled Kagerou Project. *In constant evolution, will be finished maybe in years ?*
     *  <img src="https://kagescan.fr/fangame/logo.png" height="50px"> : [A fangame (kagepro2)](https://github.com/LoganTann/kagepro2) and [its launcher (kagepro3_launcher)](https://github.com/LoganTann/kagepro2).  
-    It runs with the great and independant visual novel web library [Monogatari](https://github.com/Monogatari/Monogatari)
+    It runs with the great and independant visual novel web library [Monogatari](https://github.com/Monogatari/Monogatari). *Older versions are made with my own visual novel rendering engines, powered by python and c++*
     * The website https://kagescan.fr . I'll renovate it with nodeJS in few months, stay tuned !
 
-👯 Besides my community and my university, I’m following a french dev group titled "Bonjour Le Monde" with [@swordfatih](https://github.com/swordfatih), [@glcraft](https://github.com/glcraft) and many others.
-
+<table>
+<tr>
+<td align="center">
+      
 📫 How to reach me: @ShinProg#2885, or the mail in my github profile.
 
 😄 Pronouns: He/Him
+      
+</td>
+<td align="center">
+      
+👯 Besides my community and my university, I’m following a french dev group titled "Bonjour Le Monde" with [@swordfatih](https://github.com/swordfatih), [@glcraft](https://github.com/glcraft) and many others.
+      
+</td>
+</tr>
+</table>
+
+
 
 <!--⚡ Fun fact: ???-->
