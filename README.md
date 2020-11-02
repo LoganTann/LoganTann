@@ -17,7 +17,7 @@ A random french dev that programs mainly in JS. Discord enthusiast, I have also 
 
 🌱 Working on :
   * Of course, homeworks projects : [IAP-PJ1](https://github.com/LoganTann/IAP-PJ1)
-  * Random small projects, usually finished : (Granahir2/Frankgame)[https://github.com/Granahir2/Frankgame] or [vocaloidWinterGame](https://github.com/LoganTann/vocaloidWinterGame)
+  * Random small projects, usually finished : [Granahir2/Frankgame](https://github.com/Granahir2/Frankgame) or [vocaloidWinterGame](https://github.com/LoganTann/vocaloidWinterGame)
   * And maybe what you're looking for, my main projects. It's always about the subject of my community, which is a japanese mixed-media project titled Kagerou Project. *In constant evolution, will be finished maybe in years ?*
     *  <img src="https://kagescan.fr/fangame/logo.png" height="50px"> : [A fangame (kagepro2)](https://github.com/LoganTann/kagepro2) and [its launcher (kagepro3_launcher)](https://github.com/LoganTann/kagepro2).  
     It runs with the great and independant visual novel web library [Monogatari](https://github.com/Monogatari/Monogatari)
