@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
       <h3>Hi there, I'm Logan 👋</h3>
-      <p>A random french dev that programs mainly in JS. Discord enthusiast, I have also some knowledges with PHP and C++</p>
+      <p>A random french dev that programs mainly in JS. <br> I have also some knowledges with PHP and C++</p>
     </td>
     <td align="center">
       <img alt="Logan TANN - Creator & Community Leader of Kagescan.fr, Student at the IUT of Paris University" src="gh_md_1.png"/>
