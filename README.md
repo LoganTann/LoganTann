@@ -18,6 +18,6 @@ It runs with the great and independant visual novel web library [Monogatari](htt
 * Homework Projects : [IAP-PJ1](https://github.com/LoganTann/IAP-PJ1)  
 * Random Projects : See the rest of my repositories
 
-📫 How to reach me: @ShinProg#2885, or the mail in my github profile.  
+📫 How to reach me: @ShinProg#2885 from discord, or the mail in my github profile.  
 😄 Pronouns: He/Him  
 :people_holding_hands: Besides my community and my university, I’m following a french dev group titled "Bonjour Le Monde" with [@swordfatih](https://github.com/swordfatih), [@glcraft](https://github.com/glcraft) and many others.
