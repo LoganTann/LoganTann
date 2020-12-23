@@ -14,5 +14,5 @@
 </tr>
 </table>
 
-* [@Kagescan](https://github.com/Kagescan) : [A website](https://kagescan.fr), [a fangame (kagepro2)](https://github.com/LoganTann/kagepro2) that runs with the [Monogatari library](https://github.com/Monogatari/Monogatari), and [its launcher (kagepro3_launcher)](https://github.com/LoganTann/kagepro2)
-* Homework Projects : [IAP-PJ1](https://github.com/LoganTann/IAP-PJ1) 
+* [@Kagescan](https://github.com/Kagescan) : ~~Attempt to~~ make [a website](https://kagescan.fr), [a fangame (kagepro2)](https://github.com/LoganTann/kagepro2) that runs with the [Monogatari library](https://github.com/Monogatari/Monogatari), and [its launcher (kagepro3_launcher)](https://github.com/LoganTann/kagepro2)
+* Homework Projects : [IAP-PJ1](https://github.com/LoganTann/IAP-PJ1), [BoggleCpp](https://github.com/Braxoia/BoggleCpp)
