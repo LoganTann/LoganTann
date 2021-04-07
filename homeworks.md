@@ -10,9 +10,12 @@ Algorithmic :
 Non Algorithmic : 
 * [e-portfolio](https://github.com/LoganTann/e-portfolio) (lang: HTML/JS client)
 * [censure](https://github.com/LoganTann/censure) (lang: HTML/JS client)
+* [PJS1-numedu](https://numedu.wixsite.com/site) (Wix)
+* [questionnaire-numedu](https://github.com/LoganTann/LoganTann.github.io/tree/master/questionnaire-numedu) (lang: Vue.JS client)
 
 Non Scholar:
-* [bde-faction.fr](https://github.com/LoganTann/bde-faction.fr) (lang: Vue.JS)
+* [bde-faction.fr](https://github.com/LoganTann/bde-faction.fr) (lang: Vue.JS server)
+* [Edt-bot command generator](https://logantann.github.io/perso/EDT_bot.html#config) (lang: Vue.JS client)
 
 ### 2019-2020
 
