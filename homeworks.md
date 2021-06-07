@@ -17,8 +17,8 @@ Algorithmic :
 
 Non Algorithmic : 
 * [e-portfolio](https://github.com/LoganTann/e-portfolio) (lang: HTML/JS client)
-* [censure](https://github.com/LoganTann/censure) (lang: HTML/JS client)
-* [PJS1-numedu](https://numedu.wixsite.com/site) (Wix)
+* [censure](https://github.com/LoganTann/censure) (lang: HTML/JS client, with [@elkidd](https://github.com/elkidd), [@Yan2708](https://github.com/Yan2708), [@Swaxeed](https://github.com/Swaxeed) and 2 others)
+* [PJS1-numedu](https://numedu.wixsite.com/site) (Wix, with 4 others)
 * [questionnaire-numedu](https://github.com/LoganTann/LoganTann.github.io/tree/master/questionnaire-numedu) (lang: Vue.JS client)
 
 Non Scholar:
