@@ -26,6 +26,6 @@ Non Scholar:
 * [Edt-bot command generator](https://logantann.github.io/perso/EDT_bot.html#config) (lang: Vue.JS client)
 
 ### 2019-2020 (Terminale S-SVT~ISN)
-
-ISN Proj. Final : 
+ 
 * [panneau](https://github.com/LoganTann/panneau) (lang: HTML/CSS/JS client & PHP, with [@RoyaLProg](https://github.com/RoyaLProg) and [@Ovvvs](https://github.com/Ovvvs))
+* [spe_projects](https://github.com/LoganTann/spe_projects) (lang : HTML/CSS/Python)
