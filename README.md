@@ -15,5 +15,8 @@
 </tr>
 </table>
 
+### Works
+
 * [Homework Projects masterlist](homeworks.md) : console apps in C/Java, WinForms and a lot of websites
-* [@Kagescan](https://github.com/Kagescan) : [Actually rewriting](https://github.com/Kagescan/code.kagescan.fr) my [old website](https://kagescan.fr), and programming [a fangame (kagepro2)](https://github.com/LoganTann/kagepro2) that runs with the [Monogatari library](https://github.com/Monogatari/Monogatari) + [its launcher (kagepro3_launcher)](https://github.com/LoganTann/kagepro2) less than a year ago.
+* [@Kagescan](https://github.com/Kagescan) : Actually [rewriting](https://github.com/Kagescan/code.kagescan.fr) my [old website](https://kagescan.fr), and programming [a fangame (kagepro2)](https://github.com/LoganTann/kagepro2) that runs with the [Monogatari library](https://github.com/Monogatari/Monogatari) + [its launcher (kagepro3_launcher)](https://github.com/LoganTann/kagepro2) less than a year ago.
+* [@SI-Cartesia-Junior](https://github.com/SI-Cartesia-Junior) : Maintaining apps and the IT infrastructure of Cartésia Junior.
