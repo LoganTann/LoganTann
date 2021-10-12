@@ -1,10 +1,14 @@
+<table align="center"><tr><td>
 
-### (Pins)
+<p><img align="right"  width="14" src="https://user-images.githubusercontent.com/28659185/136918900-f2ba080e-e543-453d-b23b-629e980e1c66.png" />
+<img align="left" width="14" src="https://user-images.githubusercontent.com/28659185/136918892-1643c51a-1174-47c2-90b7-14036cdc5817.png" /></p>
+    
+💼 I'm currently looking for an internship in IT, near Paris - [LinkedIn: @LoganTann](https://linkedin.com/in/LoganTann/)  
+🚀️ Special shoutout for [@Guillaume DEREX](https://github.com/Guigui220D) who sponsored me in oct. 11th 2021 !!
 
-* I'm currently looking for an internship in IT, near Paris - [LinkedIn: @LoganTann](https://linkedin.com/in/LoganTann/) 🚀️
-* Special shoutout for [@Guillaume DEREX](https://github.com/Guigui220D) who sponsored me in oct. 11th 2021 !!
-
-## Hey there, I'm Logan 👋
+</td><tr></table>
+            
+<h2 align="center">Hey there, I'm Logan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <img align="right" width="370" alt="Logan TANN - Creator & Community Leader of Kagescan.fr, Student at the IUT of Paris University" src="gh_md_1.png"/>
 
@@ -20,4 +24,4 @@ Want to know what i'm doing in github ? Check this out :
     > *[@CPU-Paris](https://github.com/CPU-Paris/) : also Admin and Teacher for an inter-campus programming club I created this year*
 - 📦 [@MaterializeCSS](https://github.com/materializecss) : Official maintainer for the fork of the popular front-end library based on Google's Material Design
       
-Looking for a complete bio ? Have a look to my [Github Sponsor](https://github.com/sponsors/LoganTann) page !
+Want a complete bio ? Have a look to my [Github Sponsor](https://github.com/sponsors/LoganTann) page !
