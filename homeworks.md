@@ -15,8 +15,8 @@ The DUT lasts two years = 4 semesters (S1 to S4).
 Programming : 
 * (S3-A) [PWEB-PJ1](https://github.com/LoganTann/PWEB-PJ1) (in progress, lang: PHP CodeIgniter4, with [@madskullkoa](https://github.com/madskullkoa) and [@abenfraj](https://github.com/abenfraj))  
   > Actually creating a car rental management system with CodeIgniter
-* (S3-A) [AAV-PJ1](https://github.com/LoganTann/AAV-PJ1) (in progress, lang: Java, with [@sophieminos](https://github.com/sophieminos))  
-  > Actually creating 3 algorithmic methods to solve the classic backpack problem
+* (S3-A) [AAV-PJ1](https://github.com/LoganTann/AAV-PJ1) (lang: Java, with [@sophieminos](https://github.com/sophieminos))  
+  > Created 3 algorithmic methods to solve the classic backpack problem
 * (S3-A) [PJS3](https://github.com/LoganTann/PJS3) (in progress, with [@lucasmaracine](https://github.com/lucasmaracine) and others)
   > Actually creating [this website](https://www.iledebrehat.fr/) but better
 * (S3-A) [MATHS-PJ1](https://github.com/LoganTann/MATHS-PJ1) (**To be added** + in progress, with [@lucasmaracine](https://github.com/lucasmaracine) and others)  
@@ -27,7 +27,7 @@ Non Scholar but related to work :
 * IT Sys. Manager + Tech-Lead for all project of [Cartesia Junior Enterprise](https://github.com/SI-Cartesia-Junior)
 
 Non Algorithmic & not published : 
-* (S3-A) English group project : [creating a fictive startup](https://github.com/LoganTann/LoganTann/tree/main/homeworks_files/21-22-dut)
+* (S3-A) English group project : Created a fictive startup
 * (S3-A) Computer and IT Laws individual project : [about transhumanism in IT law](https://github.com/LoganTann/LoganTann/tree/main/homeworks_files/21-22-dut)
 
 #### 2020-2021
