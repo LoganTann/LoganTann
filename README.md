@@ -4,7 +4,6 @@
 <img align="left" width="14" src="https://user-images.githubusercontent.com/28659185/136918892-1643c51a-1174-47c2-90b7-14036cdc5817.png" /></p>
     
 💼 I'm currently looking for an internship in IT, near Paris - [LinkedIn: @LoganTann](https://linkedin.com/in/LoganTann/)  
-🚀️ Special shoutout for [@Guillaume DEREX](https://github.com/Guigui220D) who sponsored me in oct. 11th 2021 !!
 
 </td><tr></table>
             
