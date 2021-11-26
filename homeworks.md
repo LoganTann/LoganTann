@@ -13,14 +13,14 @@ The DUT lasts two years = 4 semesters (S1 to S4).
 #### 2021-2022
 
 Programming : 
-* (S3-A) [PWEB-PJ1](https://github.com/LoganTann/PWEB-PJ1) (in progress, lang: PHP CodeIgniter4, with [@madskullkoa](https://github.com/madskullkoa) and [@abenfraj](https://github.com/abenfraj))  
-  > Actually creating a car rental management system with CodeIgniter
+* (S3-A) [PWEB-PJ1](https://github.com/LoganTann/PWEB-PJ1) (lang: PHP, with [@madskullkoa](https://github.com/madskullkoa) and [@abenfraj](https://github.com/abenfraj))  
+  > Created a car rental management system
 * (S3-A) [AAV-PJ1](https://github.com/LoganTann/AAV-PJ1) (lang: Java, with [@sophieminos](https://github.com/sophieminos))  
   > Created 3 algorithmic methods to solve the classic backpack problem
-* (S3-A) [PJS3](https://github.com/LoganTann/PJS3) (in progress, with [@lucasmaracine](https://github.com/lucasmaracine) and others)
-  > Actually creating [this website](https://www.iledebrehat.fr/) but better
-* (S3-A) [MATHS-PJ1](https://github.com/LoganTann/MATHS-PJ1) (**To be added** + in progress, with [@lucasmaracine](https://github.com/lucasmaracine) and others)  
-  > Actually creating a modelisation of a neural network using programming and mathematics ressources
+* (S3-A) [PJS3](https://github.com/LoganTann/PJS3) (with [@lucasmaracine](https://github.com/lucasmaracine) and others)
+  > Created creating [this website](https://www.iledebrehat.fr/) but better (@see [brehat.netlify.app](https://brehat.netlify.app))
+* (S3-A) [MATHS-PJ1](https://github.com/LoganTann/MATHS-PJ1) (with [@lucasmaracine](https://github.com/lucasmaracine) and others)  
+  > Created a realtime genetic algorithm that trains an IA to play Flappy Bird
 
 Non Scholar but related to work : 
 * Created the club [CPU-Paris Programming Club](https://github.com/CPU-Paris), leading mainly discovery workshops 
