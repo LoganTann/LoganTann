@@ -1,12 +1,3 @@
-<table align="center"><tr><td>
-
-<p><img align="right"  width="14" src="https://user-images.githubusercontent.com/28659185/136918900-f2ba080e-e543-453d-b23b-629e980e1c66.png" />
-<img align="left" width="14" src="https://user-images.githubusercontent.com/28659185/136918892-1643c51a-1174-47c2-90b7-14036cdc5817.png" /></p>
-    
-💼 I'm currently looking for an internship in IT, near Paris - [LinkedIn: @LoganTann](https://linkedin.com/in/LoganTann/)  
-
-</td><tr></table>
-            
 <h2 align="center">Hey there, I'm Logan :wave:</h2>
 
 <img align="right" width="370" alt="Logan TANN - Creator & Community Leader of Kagescan.fr, Student at the IUT of Paris University" src="gh_md_1.png"/>
