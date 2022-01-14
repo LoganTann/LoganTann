@@ -1,8 +1,14 @@
-<h2 align="center">Hey there, I'm Logan :wave:</h2>
+<h2 align="left">Hey there, I'm Logan :wave:</h2>
 
 <img align="right" width="370" alt="Logan TANN - Creator & Community Leader of Kagescan.fr, Student at the IUT of Paris University" src="gh_md_1.png"/>
 
-I'm a French CS student who loves programming and Kagerou Project, a Japanese mixed-media series !
+
+```css
+#    _      > I am a french CS student who loves <
+  __(.)<    >    programming and Kagerou Daze,   <
+  \___)     >   a japanese mixed-media series !  <
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^
+```
 
 What i'm doing in github :
 
