@@ -7,7 +7,7 @@
 #    _      > I am a french CS student who loves <
   __(.)<    >    programming and Kagerou Daze,   <
   \___)     >   a japanese mixed-media series !  <
-~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^
+~^~^~^~^~
 ```
 
 What i'm doing in github :
