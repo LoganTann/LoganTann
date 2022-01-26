@@ -28,12 +28,14 @@ Non Scholar but related to work :
 * ✨ I have rewritten my [e-portfolio](https://logantann.netlify.app/) and have made a printable [web CV](https://logantann.netlify.app/CV) with i18n support (lang: Vue.Js / Nuxt)
   
 Programming : 
+* (S4-A) [PJS4: List.io](https://github.com/PJS4-List-io) ***[in progress; private repositories]*** (with [@JiveOff](https://github.com/JiveOff))
+  > Yet another project with Antoine B. featuring a hybrid mobile app using Figma, Vue.JS 2 for the front; Nest.JS, Typescript, TypeORM for the back; Docker and Cordova for the deployment and smartphone port
 * (S3-B) No programming projects during S3-B
 * (S3-A) [PWEB-PJ1](https://github.com/LoganTann/PWEB-PJ1) (lang: PHP, with [@madskullkoa](https://github.com/madskullkoa) and [@abenfraj](https://github.com/abenfraj))  
   > Created a car rental management system
 * (S3-A) [AAV-PJ1](https://github.com/LoganTann/AAV-PJ1) (lang: Java, with [@sophieminos](https://github.com/sophieminos))  
   > Created 3 algorithmic methods to solve the classic backpack problem
-* (S3-A) [PJS3](https://github.com/LoganTann/PJS3) (lang: Vue.JS / Nuxt, with [@lucasmaracine](https://github.com/lucasmaracine) and others)
+* (S3-A) [PJS3](https://github.com/LoganTann/PJS3) (lang: Vue.JS 2 / Nuxt, with [@lucasmaracine](https://github.com/lucasmaracine) and others)
   > ✨ Created [this website](https://www.iledebrehat.fr/) but better (@see [brehat.netlify.app](https://brehat.netlify.app))
 * (S3-A) [MATHS-PJ1](https://github.com/LoganTann/MATHS-PJ1) (lang: Canvas2D using Typescript, with [@lucasmaracine](https://github.com/lucasmaracine) and others)  
   > Created a realtime genetic algorithm that trains a neural network to play Flappy Bird
@@ -48,8 +50,8 @@ Non Algorithmic & not published :
 #### 2020-2021
 
 Non Scholar but related to work:
-* ✨ [bde-faction.fr](https://github.com/LoganTann/bde-faction.fr) (lang: Vue.JS / Nuxt)
-* [Edt-bot command generator](https://logantann.github.io/perso/EDT_bot.html#config) (lang: Vue.JS client)
+* ✨ [bde-faction.fr](https://github.com/LoganTann/bde-faction.fr) (lang: Vue.JS 2 / Nuxt)
+* [Edt-bot command generator](https://logantann.github.io/perso/EDT_bot.html#config) (lang: Vue.JS 2 client)
 
 Programming :
 * (S2-D) [IHM-PJ2](https://github.com/LoganTann/IHM-PJ2) (lang: VB.NET framework + winforms , with [@SofZOO](https://github.com/SofZOO))
@@ -62,7 +64,7 @@ Programming :
   > Documentary website about censorship in the world
 * (S1-B) [PJS1-numedu](https://numedu.wixsite.com/site) (Wix, with 4 others)
   > Documentary website about the use of technologies in education
-* (S1-B) [questionnaire-numedu](https://github.com/LoganTann/LoganTann.github.io/tree/master/questionnaire-numedu) (lang: Vue.JS client)
+* (S1-B) [questionnaire-numedu](https://github.com/LoganTann/LoganTann.github.io/tree/master/questionnaire-numedu) (lang: Vue.JS 2 client)
   > ✨ A scriptable survey form that looks like an interacting chatbot, used to collect data for the PJS1
 * (S1-B) [BoggleCpp](https://github.com/Braxoia/BoggleCpp) (lang: Cpp - most STL features forbidden, with [@Braxoia](https://github.com/Braxoia) )
   > Basic implementation of the *Boggle* game in C++, that implements commonly-used data structures
