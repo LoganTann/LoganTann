@@ -22,20 +22,21 @@ The DUT lasts two years = 4 semesters (S1 to S4).
 
 #### 2021-2022
 
+Non Scholar but related to work : 
+* Created the [CPU-Paris Programming Club](https://github.com/CPU-Paris), leading mainly discovery workshops 
+* IT Sys. Manager + Tech-Lead for all project of [Cartesia Junior Enterprise](https://github.com/SI-Cartesia-Junior)
+* ✨ I have rewritten my [e-portfolio](https://logantann.netlify.app/) and have made a printable [web CV](https://logantann.netlify.app/CV) with i18n support (lang: Vue.Js / Nuxt)
+  
 Programming : 
 * (S3-B) No programming projects during S3-B
 * (S3-A) [PWEB-PJ1](https://github.com/LoganTann/PWEB-PJ1) (lang: PHP, with [@madskullkoa](https://github.com/madskullkoa) and [@abenfraj](https://github.com/abenfraj))  
   > Created a car rental management system
 * (S3-A) [AAV-PJ1](https://github.com/LoganTann/AAV-PJ1) (lang: Java, with [@sophieminos](https://github.com/sophieminos))  
   > Created 3 algorithmic methods to solve the classic backpack problem
-* (S3-A) [PJS3](https://github.com/LoganTann/PJS3) (with [@lucasmaracine](https://github.com/lucasmaracine) and others)
+* (S3-A) [PJS3](https://github.com/LoganTann/PJS3) (lang: Vue.JS / Nuxt, with [@lucasmaracine](https://github.com/lucasmaracine) and others)
   > ✨ Created [this website](https://www.iledebrehat.fr/) but better (@see [brehat.netlify.app](https://brehat.netlify.app))
-* (S3-A) [MATHS-PJ1](https://github.com/LoganTann/MATHS-PJ1) (with [@lucasmaracine](https://github.com/lucasmaracine) and others)  
+* (S3-A) [MATHS-PJ1](https://github.com/LoganTann/MATHS-PJ1) (lang: Canvas2D using Typescript, with [@lucasmaracine](https://github.com/lucasmaracine) and others)  
   > Created a realtime genetic algorithm that trains a neural network to play Flappy Bird
-
-Non Scholar but related to work : 
-* Created the club [CPU-Paris Programming Club](https://github.com/CPU-Paris), leading mainly discovery workshops 
-* IT Sys. Manager + Tech-Lead for all project of [Cartesia Junior Enterprise](https://github.com/SI-Cartesia-Junior)
 
 Non Algorithmic & not published : 
 * (S3-B) English : Video CV
@@ -45,6 +46,10 @@ Non Algorithmic & not published :
 * (S3-A) Computer and IT Laws project : [about transhumanism in IT law](https://github.com/LoganTann/LoganTann/tree/main/homeworks_files/21-22-dut)
 
 #### 2020-2021
+
+Non Scholar but related to work:
+* ✨ [bde-faction.fr](https://github.com/LoganTann/bde-faction.fr) (lang: Vue.JS / Nuxt)
+* [Edt-bot command generator](https://logantann.github.io/perso/EDT_bot.html#config) (lang: Vue.JS client)
 
 Programming :
 * (S2-D) [IHM-PJ2](https://github.com/LoganTann/IHM-PJ2) (lang: VB.NET framework + winforms , with [@SofZOO](https://github.com/SofZOO))
@@ -65,10 +70,6 @@ Programming :
   > E-portfolio project in HTML, CSS, Bootstrap and Javascript. See branch gh-pages, the latest one (main) is an upgraded version.
 * (S1-A) [IAP-PJ1](https://github.com/LoganTann/IAP-PJ1) (lang: C, with [@JiveOff](https://github.com/JiveOff) )
   > First programming project, enterprise management system in C99
-
-Non Scholar but related to work:
-* [bde-faction.fr](https://github.com/LoganTann/bde-faction.fr) (lang: Vue.JS server)
-* [Edt-bot command generator](https://logantann.github.io/perso/EDT_bot.html#config) (lang: Vue.JS client)
 
 Non Algorithmic & not published : 
 * (S1-A to S2-D) Mastered Office & LibreOffice suite while making a lot of non algorithmic projects  
