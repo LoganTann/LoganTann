@@ -25,7 +25,7 @@ The DUT lasts two years = 4 semesters (S1 to S4).
 Non Scholar but related to work : 
 * Created the [CPU-Paris Programming Club](https://github.com/CPU-Paris), leading mainly discovery workshops 
 * IT Sys. Manager + Tech-Lead for all project of [Cartesia Junior Enterprise](https://github.com/SI-Cartesia-Junior)
-* ✨ I have rewritten my [e-portfolio](https://logantann.netlify.app/) and have made a printable [web CV](https://logantann.netlify.app/CV) with i18n support (lang: Vue.Js / Nuxt)
+* ✨ I have rewritten my [e-portfolio](https://logan.kagescan.fr/) and have made a printable [web CV](https://logan.kagescan.fr/CV) with i18n support (lang: Vue.Js / Nuxt)
   
 Programming : 
 * (S4-A) [PJS4: List.io](https://github.com/PJS4-List-io) ***[in progress; private repositories]*** (with [@JiveOff](https://github.com/JiveOff))
