@@ -2,8 +2,9 @@
   
 This list features all the *(instructive & serious)* projects carried out as homework and published online on github. 
 
-*For copyright reasons, only the code and possibly written reports can be published online.  
-Please contact me if the wording of a project is publicly visible !*
+Projects starting with the ✨ emoji are "pinned", these are the ones you can look at to judge the quality of my work.
+
+*For copyright reasons, the instructions of the homework may not be published : you might find only the code and possibly written reports.*
 
 <table align="center"><tbody><tr><td>
 
@@ -22,16 +23,17 @@ The DUT lasts two years = 4 semesters (S1 to S4).
 
 #### 2021-2022
 
-Non-Scholar but related to work : 
-* Created the [CPU-Paris Programming Club](https://github.com/CPU-Paris), leading mainly discovery workshops 
+Scholar but not an homework : 
+* Created the [CPU-Paris Programming Club](https://github.com/CPU-Paris), leading mainly discovery workshops (with [Antoine B.](https://github.com/JiveOff), [Arsène Lapostolet](https://github.com/Ombrelin), [Anicet Nougaret](https://github.com/AnicetNgrt) and [@Esilff](https://github.com/Esilff))
 * IT Sys. Manager + Tech-Lead for all project of [Cartesia Junior Enterprise](https://github.com/SI-Cartesia-Junior)
 * ✨ I have rewritten my [e-portfolio](https://logan.kagescan.fr/) and have made a printable [web CV](https://logan.kagescan.fr/CV) with i18n support (lang: Vue.Js / Nuxt)
+* [redbeansoup_bot](https://github.com/LoganTann/redbeansoup-bot) : [Descalendrier](https://edt.bde-faction.fr/) for Discord (using an API made by [Antoine B.](https://github.com/JiveOff))
   
 Programming : 
-* (S4-A) [PJS4: List.io](https://github.com/PJS4-List-io) ***[in progress; private repositories]*** (with [@JiveOff](https://github.com/JiveOff))
-  > Yet another project with Antoine B. featuring a hybrid mobile app using Figma, Vue.JS 2 for the front; Nest.JS, Typescript, TypeORM for the back; Docker and Cordova for the deployment and smartphone port
+* (S4-A) [PJS4: List.io](https://github.com/PJS4-List-io) ***[in progress; private repositories]*** (with [Antoine B.](https://github.com/JiveOff) and others)
+  > A hybrid mobile app using Figma, Vue.JS 2 for the front; Nest.JS, Typescript, TypeORM for the back; Docker and Cordova for the deployment and smartphone port
 * (S3-B) No programming projects during S3-B
-* (S3-A) [PWEB-PJ1](https://github.com/LoganTann/PWEB-PJ1) (lang: PHP, with [@madskullkoa](https://github.com/madskullkoa) and [@abenfraj](https://github.com/abenfraj))  
+* (S3-A) [PWEB-PJ1](https://github.com/LoganTann/PWEB-PJ1) (lang: PHP, with [Youcef M.](https://github.com/madskullkoa) and [@abenfraj](https://github.com/abenfraj))  
   > Created a car rental management system
 * (S3-A) [AAV-PJ1](https://github.com/LoganTann/AAV-PJ1) (lang: Java, with [@sophieminos](https://github.com/sophieminos))  
   > Created 3 algorithmic methods to solve the classic backpack problem
@@ -49,8 +51,8 @@ Non-Algorithmic & not published :
 
 #### 2020-2021
 
-Non-Scholar but related to work:
-* ✨ [bde-faction.fr](https://github.com/LoganTann/bde-faction.fr) (lang: Vue.JS 2 / Nuxt)
+Scholar but not an homework :
+* ✨ [bde-faction.fr](https://github.com/LoganTann/bde-faction.fr) : Website for the IT student council (lang: Vue.JS 2 / Nuxt)
 * [Edt-bot command generator](https://logantann.github.io/perso/EDT_bot.html#config) (lang: Vue.JS 2 client)
 
 Programming :
@@ -58,7 +60,7 @@ Programming :
   > Memory game built in WinForms using Visual Basic .NET
 * (S2-D) [BPO-PJ2](https://github.com/Esilff/BPO-PJ2) (lang: Java SE8, with [@Esilff](https://github.com/Esilff))
   > ✨ Chess game in console using Java (includes unit tests)
-* (S2-C) [BPO-PJ1](https://github.com/LoganTann/BPO-PJ1) (lang: Java SE8, with [@JiveOff](https://github.com/JiveOff))
+* (S2-C) [BPO-PJ1](https://github.com/LoganTann/BPO-PJ1) (lang: Java SE8, with [Antoine B.](https://github.com/JiveOff))
   > Basic implementation in Java of the board game *Le Duel*
 * (S1-B) [censure](https://github.com/LoganTann/censure) (lang: HTML/JS client, with [@elkidd](https://github.com/elkidd), [@Yan2708](https://github.com/Yan2708), [@Swaxeed](https://github.com/Swaxeed) and 2 others)
   > Documentary website about censorship in the world
@@ -70,7 +72,7 @@ Programming :
   > Basic implementation of the *Boggle* game in C++, that implements common data structures
 * (S1-A) [e-portfolio](https://github.com/LoganTann/e-portfolio/tree/gh-pages) (lang: HTML/JS client)
   > E-portfolio project in HTML, CSS, Bootstrap and Javascript. See branch gh-pages, the latest one (main) is an upgraded version.
-* (S1-A) [IAP-PJ1](https://github.com/LoganTann/IAP-PJ1) (lang: C, with [@JiveOff](https://github.com/JiveOff) )
+* (S1-A) [IAP-PJ1](https://github.com/LoganTann/IAP-PJ1) (lang: C, with [Antoine B.](https://github.com/JiveOff) )
   > First programming project, enterprise management system in C99
 
 Non-Algorithmic & not published : 
