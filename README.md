@@ -2,13 +2,15 @@
 
 <img align="right" width="370" alt="Logan TANN - Creator & Community Leader of Kagescan.fr, Student at the IUT of Paris University" src="gh_md_1.png"/>
 
-
 ```css
 #    _      > I am a french CS student who loves <
   __(.)<    >    programming and Kagerou Daze,   <
   \___)     >   a japanese mixed-media series !  <
 ~^~^~^~^~
 ```
+
+
+**Currently an intern at Edifixio Atos as a fullstack salesforce developer.**
 
 What i'm doing in github :
 
