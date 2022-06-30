@@ -10,7 +10,7 @@
 ```
 
 
-**Currently an intern at Edifixio Atos as a fullstack salesforce developer.**
+**Currently an intern as a fullstack salesforce developer.**
 
 What i'm doing in github :
 
