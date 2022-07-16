@@ -1,25 +1,26 @@
-<h2 align="left">Hey there, I'm Logan :wave:</h2>
+<table><tr><td>
 
-<img align="right" width="370" alt="Logan TANN - Creator & Community Leader of Kagescan.fr, Student at the IUT of Paris University" src="gh_md_1.png"/>
+## Hey there, I'm Logan :wave:
 
-```css
-#    _      > I am a french CS student who loves <
-  __(.)<    >    programming and Kagerou Daze,   <
-  \___)     >   a japanese mixed-media series !  <
-~^~^~^~^~
+👨‍🎓 2nd year Software Engineering Student
+
+☁ Apprentice Fullstack Salesforce Developer
+
+</td><td>
+
+```css 
+           _
+  Quack! >(.)__
+          (___/
+^~^~^~^~^~^~^~^~^~^~^~^~
 ```
 
+</td></tr></table>
 
-**Currently an intern as a fullstack salesforce developer.**
+### Technical mood (Summer 2022)
 
-What i'm doing in github :
-
-- 📜 [Homework Projects masterlist](homeworks.md) : 40% of my free time is dedicated to studies & homeworks.  
-    > *In average, I work and publish up to 4 digital projects each two months.*
-- 😀 [@Kagescan](https://github.com/Kagescan) : A set of projects that I created 5 years ago, and in which I'm still managing  
-    > *Within that same name, it's is first a community, but also a full-featured website and a fan-translation team*
-- 🎓 [@SI-Cartesia-Junior](https://github.com/SI-Cartesia-Junior) : Maintaining apps and the IT infrastructure of the Junior Enterprise of our campus
-    > *[@CPU-Paris](https://github.com/CPU-Paris/) : also Admin and Teacher for an inter-campus programming club I created this year*
-- 📦 [@MaterializeCSS](https://github.com/materializecss) : Official maintainer for the fork of the popular front-end library based on Google's Material Design
-      
-A complete bio is available at my [Github Sponsor](https://github.com/sponsors/LoganTann) page !
+| Project | Description | Tech-stack |
+| -------------- | -------------- | ------------- |
+| Apprenticeship | Almost working on a ERP-like software into Salesforce CRM (using LWC and Apex) | ![LWC](https://media.discordapp.net/attachments/974222396200452128/997995044235640913/unknown.png?width=30&height=30) ![Apex](https://media.discordapp.net/attachments/974222396200452128/997995044608946279/unknown.png?width=30&height=30) |
+| redbeansoup-v2 | Monolithic discord bot project, powered by discordeno. Includes its own dev framework and dashboard. | ![discordeno](https://media.discordapp.net/attachments/974222396200452128/998002679659892786/unknown.png?width=30&height=30) ![deno](https://media.discordapp.net/attachments/974222396200452128/997995045741408286/unknown.png?width=30&height=30) ![typescript](https://media.discordapp.net/attachments/974222396200452128/997995045359714334/unknown.png?width=30&height=30) |
+| kagescan-nuxt | Attempt to rewrite kagescan's 2018 CRM while learning nuxt v3 and supabase | ![nuxt](https://media.discordapp.net/attachments/974222396200452128/997995044948693003/unknown.png?width=98&height=30) ![supabase](https://media.discordapp.net/attachments/974222396200452128/997995046106320986/unknown.png?width=128&height=25) ![tailwind](https://media.discordapp.net/attachments/974222396200452128/997995046450233484/unknown.png?width=128&height=25)|
