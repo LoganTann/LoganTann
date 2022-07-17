@@ -4,7 +4,7 @@
 
 👨‍🎓 2nd year Software Engineering Student
 
-:cloud: Part-time Fullstack Salesforce Developer
+:cloud: Part-time Salesforce Fullstack Developer
 
 :heart: [Kagescan](https://kagescan.fr)'s Community Leader [(github)](https://github.com/Kagescan)
 
