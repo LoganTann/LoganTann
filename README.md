@@ -2,7 +2,7 @@
 
 ## Hey there, I'm Logan :wave: 
 
-👨‍🎓 2nd year Software Engineering Student
+👨‍🎓 3rd year Software Engineering Student
 
 :cloud: Part-time Salesforce Fullstack Developer
 
