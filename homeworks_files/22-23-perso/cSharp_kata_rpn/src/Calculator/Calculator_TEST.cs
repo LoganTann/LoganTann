@@ -33,7 +33,7 @@ public class RpnTest
         Assert.Equal(2, result);
     }
     [Fact]
-    public void Process_shouldComputeWell_whenGivingMultipleSequences()
+    public void Process_shouldComputeWell_whenGivingTwoSequences()
     {
         // Given
         string input = "4 2 + 3 -"; // (4 + 2) - 3 = 3
