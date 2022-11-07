@@ -2,7 +2,9 @@
 
 Bonjour à tous ! 
 
-L'homme augmenté et le transhumanisme, c'est le sujet qui a été choisi tout juste hier, pour le Festival Recherche et Société de Nice.
+<!--L'homme augmenté et le transhumanisme, c'est le sujet qui a été choisi tout juste hier, pour le Festival Recherche et Société de Nice.-->
+
+<br>
 
 Si vous ne savez pas ce qu'est le transhumanisme, c'est un concept culturel qui consiste à augmenter l'humain par les sciences et la technologie. Typiquement, avoir des capacités physique ou mentales décuplée, ou même réduire la vieillesse.
 
