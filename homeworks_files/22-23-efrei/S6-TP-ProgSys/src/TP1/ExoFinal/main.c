@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "../TP1_Commons/atomatrix.h"
-#include "../TP1_Commons/filesUtils.h"
+#include "../Commons/atomatrix.h"
+#include "../Commons/filesUtils.h"
 
 int startProgram(char* matrice1_path, char* matrice2_path, char* out_path);
 

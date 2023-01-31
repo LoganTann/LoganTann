@@ -1,5 +1,5 @@
-#include "../TP1_Commons/atomatrix.h"
-#include "../TP1_Commons/filesUtils.h"
+#include "../Commons/atomatrix.h"
+#include "../Commons/filesUtils.h"
 
 int main() {
     char* fileContent = readfile("matrice.txt");

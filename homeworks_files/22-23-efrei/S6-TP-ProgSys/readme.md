@@ -8,7 +8,7 @@ Normalement, Xmake détecte tout seul le compilateur.
 
 Pour compiler : **`xmake build <exercice>`**
 
-Pour démarrer (nécessite compilation): **`xmake run <exercice>`**
+Pour démarrer (nécessite compilation): **`xmake run <exercice> [arguments]`**
 
 Où *\<exercice\>* peut prendre les valeurs suivantes : 
 

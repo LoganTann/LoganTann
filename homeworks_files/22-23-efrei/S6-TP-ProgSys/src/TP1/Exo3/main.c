@@ -1,4 +1,4 @@
-#include "../TP1_Commons/filesUtils.h"
+#include "../Commons/filesUtils.h"
 
 int main() {
     char filenameIn[30];

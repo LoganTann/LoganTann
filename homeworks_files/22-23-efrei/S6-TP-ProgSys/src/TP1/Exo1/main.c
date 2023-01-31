@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "../TP1_Commons/tableau2D.h"
+#include "../Commons/tableau2D.h"
 
 int main() {
     int **tab2D;

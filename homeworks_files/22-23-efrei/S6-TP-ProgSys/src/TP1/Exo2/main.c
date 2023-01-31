@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "../TP1_Commons/matrices.h";
+#include "../Commons/matrices.h";
 
 int main() {
     t_matrice* matrix_horiz = alloc_matrice(3, 2);
