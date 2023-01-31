@@ -9,7 +9,8 @@ local TPs = {
         "ExoFinal"
     },
     ["TP2"] = {
-        "Exo1"
+        "Exo1",
+        "Exo2"
     }
 }
 
