@@ -107,3 +107,25 @@ Le résultat est identique (de v_globale), mais l'ordre des instructions peut di
 
 Le père finis avant le fils. Pas beaucoup de changements par rapport à l'ancien code, mis à part des entrelacements bien plus
 
+## 1.1 avec thread
+
+```
+Bonjour 
+[ 289] [Pere]    i=0, v_globale=30
+[ 335] [Thrd]    i=0, v_globale=40
+[ 686] [Thrd]    i=1, v_globale=80
+[ 766] [Pere]    i=1, v_globale=160
+[ 874] [Thrd]    i=2, v_globale=170
+[ 983] [Pere]    i=2, v_globale=340
+[ 156] [Thrd]    i=3, v_globale=350
+[ 559] [Thrd]    i=4, v_globale=700
+Fils terminé
+[ 820] [Pere]    i=3, v_globale=700
+[ 608] [Pere]    i=4, v_globale=710
+Père terminé
+```
+
+
+La variable globale est à la fois modifiée par le père et par le thread.
+
+À certains coup la valeur double, à d'autres la valeur += 10. Pour empêcher ces problèmes de ressources partagées, on devra utiliser un mécanisme de lock.
