@@ -1,0 +1,106 @@
+
+cinema = (
+    Nom_cinema, Arrondissement, Adresse
+)
+film = (
+    ID_film, Titre, Année, Nom_Realisateur
+)
+artiste = (
+    Nom, Prenom, Annee_naissance
+)
+salle = (
+    #Nom_cinema, No_salle, Climatise,
+    capacite
+)
+seance = (
+    #Nom_cinema, #No_salle, No_seance,
+    Heure_debut, Heure_fin, #ID_film
+)
+role = (#ID_film, #Nom_acteur, Nom_role)
+
+
+
+
+
+
+
+
+-- 1/ Les titres des films triés par ordre décroissant.
+SELECT titre FROM Film
+ORDER BY titre DESC;
+
+-- 2/ Nom et année de naissance des artistes nés avant 1940.
+SELECT Nom, Annee_naissance
+FROM Artiste
+WHERE Annee_naissance < 1940;
+
+-- 3/ Les cinémas du 15ème arrondissement.
+SELECT Nom_cinema
+FROM Cinema 
+WHERE Arrondissement = 15;
+
+-- 4/ Les artistes dont le nom contient la lettre 'l' (commande LIKE).
+SELECT Nom
+FROM Artiste
+WHERE Nom LIKE '%l%';
+
+-- 6/ Combien de fois Bruce Willis a-t-il joué le rôle de McLane ?
+
+SELECT COUNT(*)
+FROM Artiste A, Role R
+WHERE A.Nom = R.Nom_acteur
+AND A.Nom = 'Willis'
+AND A.Prenom = 'Bruce'
+AND R.Nom_Role = 'McLane';
+
+-- 7.1/ Quels acteurs n'ont jamais mis en scène de film ?
+
+SELECT A.Nom
+FROM Artiste A LEFT JOIN Role R ON A.Nom = R.Nom_acteur
+AND R.Nom_acteur = NULL;
+
+-- 7.2/ Les cinémas (nom, adresse) qui ne passent pas un film de Tarantino.
+
+SELECT C.Nom_cinema, C.Adresse
+FROM Cinema C, Seance S, Film F
+WHERE S.ID_film = F.ID_film
+  AND F.Nom_Realisateur != 'Tarantino';
+
+-- 8.1/ Total des places dans les salles du Rex.
+
+SELECT SUM(capacite)
+FROM Salle
+WHERE Nom_cinema = 'Rex';
+
+-- 8.2/ Année du film le plus ancien et du film le plus récent.
+
+SELECT MIN(Annee), MAX(Annee)
+FROM Film;
+
+-- 8.3/ Total des places offertes par cinéma.
+
+SELECT Nom_cinema, SUM(capacite)
+FROM Salle
+GROUP BY Nom_cinema;
+
+-- 8.4/ Nom et prénom des réalisateurs, et nombre de films qu'ils ont tournés.
+
+SELECT A.Nom_Realisateur, COUNT(F.Titre)
+FROM Film F INNER JOIN Artiste A ON F.Nom_Realisateur = A.Nom
+GROUP BY A.Nom_Realisateur;
+
+-- 8.4/ Nom et prénom des réalisateurs, et nombre de films qu'ils ont tournés.
+
+-- 8.5/ Nom des cinémas ayant plus de 1 salle climatisée.
+
+-- 9.1/ Les artistes (nom, prénom) ayant joué au moins dans trois films depuis
+-- 1985, dont au moins un, passe à l'affiche à Paris (donner aussi le nombre de
+-- films)
+SELECT A.Nom, A.Prenom, COUNT(F.ID_film) 'Nombre Films', COUNT(S.ID_film) 'Dont nombre projetés'
+FROM Role R
+    INNER JOIN Artiste A ON A.Nom = R.Nom_acteur
+    INNER JOIN Film F ON F.ID_film = R.ID_film
+    LEFT JOIN Seance S ON S.ID_film = R.ID_film
+WHERE F.Annee >= 1985
+GROUP BY 1, 2
+HAVING COUNT(F.ID_film) >= 3 AND COUNT(S.ID_film) >= 1
