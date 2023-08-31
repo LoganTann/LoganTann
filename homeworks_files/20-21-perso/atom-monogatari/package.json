@@ -1,0 +1,22 @@
+{
+  "name": "atom-monogatari",
+  "main": "./lib/atom-monogatari.js",
+  "version": "0.0.0",
+  "description": "Adds snippets to your monogatari project",
+  "keywords": [],
+  "repository": "https://github.com/atom/atom-monogatari",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  }
+}

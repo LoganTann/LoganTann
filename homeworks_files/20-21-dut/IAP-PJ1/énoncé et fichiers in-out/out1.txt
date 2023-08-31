@@ -1,0 +1,20 @@
+nouvelle specialite "reseau" cout horaire "18"
+nouvelle specialite "graphisme" cout horaire "13"
+nouveau travailleur "Toto", pour la specialite "reseau"
+nouveau travailleur "Titi", pour la specialite "graphisme"
+nouveau client de l’entreprise "CorpsTruc" : "Roger"
+nouveau travail "superProduit", pour l’entreprise "CorpsTruc", commande par "Roger"
+le travail "superProduit" requiere la specialite "reseau", nombre d’heures : "45"
+le travail "superProduit" requiere la specialite "graphisme", nombre d’heures : "32"
+pour le travail "superProduit", pour la specialite "reseau" : "5" heures de plus ont ete realisees
+pour le travail "superProduit", pour la specialite "graphisme" : "7" heures de plus ont ete realisees
+pour le travail "superProduit", pour la specialite "reseau" : "3" heures de plus ont ete realisees ; un changement de travailleur est requis
+consultation des competences disponibles dans l’entreprise
+consultation des travailleurs disponibles pour la competence "reseau"
+consultation des competences disponibles dans l’entreprise, et des travailleurs disponibles pour chacune
+consultation de la charge de travail de "Toto"
+consultation de la charge de travail de "Titi"
+consultation de l'etat de l'ensemble des travaux et de leurs taches
+consultation des clients de l'entrprise "CorpsTruc"
+consultation de toutes les entreprises, et des clients issus de chacune
+fin de programme

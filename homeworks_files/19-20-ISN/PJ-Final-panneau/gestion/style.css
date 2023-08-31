@@ -1,0 +1,81 @@
+
+#espaceErreur {
+	font-weight: bold;
+	margin-bottom: 50px;
+	background: #ddd;
+	text-align: center;
+	padding: 10px;
+	border-radius: 10px;
+	color: #555;
+}
+#espaceErreur i {
+	color: #000;
+}
+body {
+	margin: 10px 10%;
+	font-family: "didact gothic", sans-serif;
+}
+.biggerText {
+	font-size: 20px;
+}
+h1 {
+	font-size: 24px;
+}
+table {
+	margin: auto;
+}
+td {
+	padding: 30px;
+}
+input, select, textarea {
+	width: 90%;
+	min-height: 25px;
+	margin: auto;
+	display: block;
+}
+input[type="checkbox"] {
+	/*supprime les styles plus haut pour les checkbox*/
+	width: initial;
+	min-height: initial;
+	display: initial;
+	margin-right: 1em;
+}
+a {
+	color: black;
+}
+#submitBtn {
+	background: #EEE;
+	font-size: 20px;
+	font-family: "didact gothic";
+	border: 1px solid #AAA;
+	border-radius: 25px;
+	padding-bottom: 5px;
+	transition: all 0.5s;
+}
+#submitBtn:hover {
+	background: #33F;
+	color: white;
+	border: 1px solid transparent;
+}
+#formValidation {
+	border-left: 1px solid grey;
+}
+#gestionNav a {
+	color: black;
+}
+#gestionNav a:last-child {
+	font-weight: bold;
+}
+.btn_register {
+	display: inline-block;
+	background-color: #EEE;
+	padding: 15px;
+	border: 1px solid #AAA;
+	border-radius: 50px;
+	transition: all 0.5s;
+}
+.btn_register:hover{
+	background: #33F;
+	color: white;
+	border: 1px solid transparent;
+}

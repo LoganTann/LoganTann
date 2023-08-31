@@ -1,0 +1,5 @@
+jaune ; 9 ; 10
+vert ; 12 ; 7
+rouge ; 2 ; 1
+gris ; 7 ; 3
+bleu ; 5 ; 2

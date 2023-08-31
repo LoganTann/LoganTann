@@ -1,0 +1,76 @@
+/****************************************************************\
+
+                          Style panneau
+
+\****************************************************************/
+
+/* TODO: renommer en panneau.css ? fusionner avec gestion/style.css ?
+	à débattre
+ */
+
+html {
+	height: 100vh; /*force à prendre 100% de l'écran*/
+}
+#panelContainer {
+	font-family: "didact gothic", sans-serif;
+	margin: 0;
+	height: 100%;
+}
+div{
+	display: flex; /* permet le centrage (impossible avec display: block;) */
+	justify-content: center; /* Centre horizontalement */
+	align-items: center; /* Centre verticalement */
+	padding: 1em;
+	font-size: 2em;
+}
+
+body{
+	display: grid;
+	grid-template-areas:"j n n"
+						"h a b"
+						"h c d";
+	grid-template-rows: 88% 6% 6%;
+	grid-template-columns: 20% 40% 40%;
+}
+.jour{
+	grid-area: j;
+	background: yellow;
+}
+.contenu_news{
+	grid-area: n;
+	background: lightblue;
+}
+.heure{
+	grid-area: h;
+	background: grey;
+}
+.titre {
+	/*sélectionne tous les objs qui ont la classe titre*/
+	font-size: 1em;
+}
+
+.titre.news_1{
+	/*sélectionne l'obj qui a la classe titre + news_1*/
+	grid-area: a;
+	background: purple;
+}
+.titre.news_2{
+	grid-area: b;
+	background: lightgreen;
+}
+.titre.news_3{
+	grid-area: c;
+	background: red;
+}
+.titre.news_4{
+	grid-area: d;
+	background: orange;
+}
+.titre.selected {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.titre.empty {
+	background-color: silver;
+}

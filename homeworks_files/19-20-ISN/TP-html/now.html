@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr-FR" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Désormais - Le web en ... 2000</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <table>
+      <tr id="header">
+        <td colspan="2">
+          <h1>Désormais...</h1>
+        </td>
+      </tr>
+
+      <tr id="main">
+        <td id="nav">
+          <br>
+          <img src="logo.gif" alt="Le Web En 2000">
+          <h2>Navigation : </h2>
+          <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="old.html">À l'époque</a></li>
+            <li>
+              <b>Le web moderne</b><br>
+              <ol>
+                <li><a href="#part1">La faute à un Iphone</a></li>
+                <li><a href="#part2">Les CMS (Content Management System)</a></li>
+                <li><a href="#part3">Les librairies CSS et JavaScript</a></li>
+                <li><a href="#part4">La domination de Google</a></li>
+                <li><a href="#part5">Fin !</a></li>
+              </ol>
+            </li>
+          </ul>
+        </td>
+
+        <td id="article" style="font-family: sans-serif;">
+          <h2 id="part1">1. La faute à un Iphone</h2>
+          <p>La naissance de l'Iphone a généralisé l'utilisation d'internet sur smartphone. Fini les écrans de 800*600px, on a maintenant des écrans de toute taille !<br>
+            Dire que c'est la faute de l'Iphone est faux, mais la généralisation d'écrans de différentes tailles a conduit à une évolution du CSS !
+          </p>
+          <p>Courant 2014, une nouvelle norme pour l'HTML a fait officiellement l'apparition : l'HTML 5, avec le CSS3 !<br>
+            Elle inclus une syntaxe moins stricte, de nouvelles balises <em>(canvas, video...)</em> et le CSS inclus le flexbox <em>(créer des boites puissantes qui s'adaptent à l'écran)</em> ou plus récemment, les grilles CSS <em>(des tableaux mais beaaaucoup plus efficace)</em></p>
+
+          <h2 id="part2">2. Les CMS (Content Management System)</h2>
+          <p class="blockquote">« Désolé de vous le dire, mais ce qu'on a fait en cours ne vous sert à rien (ou presque) »</p>
+          <p>Désormais, la plupart des sites tournent sous des CMS (Content Management System), un "logiciel" de création de site web sans avoir forcément besoin de connaissances en prog. <b>Le plus connu est WordPress</b></p>
+          <p>Exemple : Le site du <a href="http://www.scharles.net/">Lycée Saint Charles</a> fonctionne sur WordPress, et de même pour le <a href="http://www.lyc-parc-evry.ac-versailles.fr">Lycée du Parc des Loges</a><br>
+            Mais découvrons une différence notable : le site du lycée par des loges est... <b>moche</b> !<br>
+          </p>
+          <p>En effet, Saint Charles a fait appel à une entreprise de création de sites web, ce qui n'est peut être pas le cas du LPL.<br>
+            <b>Utiliser des outils, c'est bien ! Mais payer une seule fois un simple développeur web est toujours bénéfique. La connaissance de l'HTML et du CSS est primordiale pour se démarquer !</b>
+          </p>
+
+          <h2 id="part3">3. Les librairies CSS et JavaScript</h2>
+          <p>Au vu de l'évolution des performances de JavaScript (cette évolution a été contribuée par Google), l'utilisation d'outils appelés "librairies" on permis d'accélérer le développement du design d'un site.<br>
+            Créer un slider diaporama devient très simple : </p>
+          <div class="pre">
+            &lt;html&gt;
+            <div class="tab">
+              &lt;head&gt;
+              <div class="tab">
+                &lt;link href="maLib.css" rel="stylesheet" /&gt;<br>
+                &lt;script src="maLib.js"&gt;&lt;/script&gt;
+              </div>
+              &lt;/head&gt;<br>
+              &lt;body&gt;
+              <div class="tab">
+                &lt;div class="slider"&gt;
+                <div class="tab">
+                  &lt;img src="1.jpg"&gt;&lt;/img&gt;<br>
+                  &lt;img src="2.jpg"&gt;&lt;/img&gt;<br>
+                  &lt;img src="3.jpg"&gt;&lt;/img&gt;
+                </div>
+                &lt;/div&gt;
+              </div>
+              &lt;/body&gt;
+            </div>
+            &lt;/html&gt;
+          </div>
+          <p>L'utilisation des librairies fait gagner beaucoup de temps et est très compatible aux mobiles. Mon propre site utilise Materialize.CSS<br>
+            On parle même désormais de "frameworks", où on peut créer ses propres balises ou composants dite "virtuelles" et leurs assigner un comportement.<br>
+            La vidéo de présentation du framework Vue.JS explique très bien le concept !
+          </p>
+          <iframe src="https://player.vimeo.com/video/247494684?dnt=1" height="400" width="600"></iframe>
+
+          <h2 id="part4">4. La domination de Google</h2>
+          <p>Un aspect négatif de l'évolution du web est la place de Google. En voici la preuve : </p>
+          <ul>
+            <li><em>(seul point positif) Son moteur d'interprétation du JavaScript Open-Source VP8 a révolutionné les performances du JavaScript. À ceci s'ajoute le format WebM et WebP.</em></li>
+            <li>... Mais Google participe à la création de nouvelles versions d'HTML</li>
+            <li>Le navigateur Google Chrome est le plus utilisé. Un site ne fonctionnant pas sur ce navigateur fera perdre près de 70% des visiteurs.</li>
+            <li>Google Analytics est un outil qui permet d'avoir des statistiques au niveau des visites de son site. Il a l'avantage d'être gratuit, mais devinez pourquoi ?</li>
+            <li>Google AMP est une librairie pour faire des pages web censées être chargées de manière instantanée en se pliant à certaines règles, jusqu'à même dominer certaines parties du web qui ne l'utiliseraient pas</li>
+            <li>Google domine le marché de la publicité du web avec Google AdSence</li>
+            <li>Google possède Youtube, permière plateforme de visualisation de vidéos, et Maps pour la cartographie.</li>
+            <li>Google possède plein de serveurs et domine dans le monde de l'IA. Beaucoup utilisent leurs services !</li>
+            <li>Le seul moyen de créer des applications pour Android est d'utiliser l'unique logiciel de Google, qui est très lourd et exclus les développeurs ayant un PC lent.</li>
+          </ul>
+          <p>Google est le premier moteur de recherche du monde. Android impose par ailleurs son propre design aux développeurs d'applications web (en d'autre termes, force l'habitude des consommateurs à adopter leurs propre design)<br>
+            <b>Utiliser ses outils et ses règles augementera notre position dans le moteur de recherche, ne pas le faire nous pénalise !</b><br>
+            Le web est donc dominé par google car pour que nos sites soient visités, il faut se plier à ses règles.<br>
+            Mon propre site en a été l'exemple : le retrait de google analytics a fait légèrement baisser ma place dans le moteur de recherche !</p>
+
+          <h2 id="part5">5. Fin !</h2>
+          <p>Voici une liste des choses présentes dans le code source du site qui n'ont pas été vues en cours :</p>
+          <ul>
+            <li>Fusionner des cellules avec la propriété <span class="pre">colspan</span></li>
+            <li>La propriété CSS <span class="pre">padding</span> et <span class="pre">border</span> et ± la propriété CSS <span class="pre">position: absolute</span></li>
+            <li>La balise <span class="pre">&lt;span&gt;</span> <em>(il s'agit juste d'une balise de ce qu'il y a de plus normal pour lui faire appliquer un style défini dans son attribut ou sa classe généralement)</em></li>
+            <li>Inclure une vidéo <em>(dépent des sites mais relativement simple pour vimeo)</em></li>
+            <li>Moins important, le codage de caractères spéciaux échappés : &lt; s'écrit en html <span class="pre">&amp;lt;</span>, &gt; s'écrit <span class="pre">&amp;gt;</span> ...<br>
+              Il existe des outils en ligne pour convertir des caractères spéciaux sans avoir à les connaitre.</li>
+            <li>Certains trucs ont été dits individuellement, comme les pourcentages, le gras, l'italique, revenir à la ligne...</li>
+          </ul>
+          <p>Bref, ce site était totalement réalisable avec ce qu'on a vu en cours, excepté faire un tableau qui prend toute la place et fusionner des cellules !</p>
+        </td>
+      </tr>
+
+      <tr id="footer">
+        <td colspan="2">
+          <p><em>Site créé par <a href="https://github.com/LoganTann/">Logan Tann</a></em>, ISN LPL-Evry</p>
+          <p><a href="#">Revenir en haut</a></p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

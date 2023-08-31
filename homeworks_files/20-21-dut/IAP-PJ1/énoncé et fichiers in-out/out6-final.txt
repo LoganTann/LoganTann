@@ -1,0 +1,169 @@
+specialites traitees : speA/10, speB/20, speC/30
+la specialite speA peut etre prise en charge par : trAabc, trBab, trCabc
+la specialite speB peut etre prise en charge par : trAabc, trBab, trCabc
+la specialite speC peut etre prise en charge par : trAabc, trCabc
+la specialite speA peut etre prise en charge par : trAabc, trBab, trCabc
+la specialite speB peut etre prise en charge par : trAabc, trBab, trCabc
+la specialite speC peut etre prise en charge par : trAabc, trCabc
+le client cltA a commande : 
+le client cltB a commande : 
+le client cltC a commande : 
+le client cltD a commande : 
+le client cltA a commande : 
+le client cltB a commande : 
+le client cltC a commande : 
+le client cltD a commande : 
+etat des taches pour cmdAd : 
+etat des taches pour cmdBa : 
+etat des taches pour cmdCd : 
+le client cltA a commande : cmdBa, cmdDa, cmdGa
+le client cltB a commande : cmdEb, cmdHb
+le client cltC a commande : cmdFc, cmdIc, cmdJc, cmdKc
+le client cltD a commande : cmdAd, cmdCd
+le client cltA a commande : cmdBa, cmdDa, cmdGa
+le client cltB a commande : cmdEb, cmdHb
+le client cltC a commande : cmdFc, cmdIc, cmdJc, cmdKc
+le client cltD a commande : cmdAd, cmdCd
+etat des taches pour cmdAd : 
+etat des taches pour cmdBa : 
+etat des taches pour cmdCd : 
+etat des taches pour cmdDa : 
+etat des taches pour cmdEb : 
+etat des taches pour cmdFc : 
+etat des taches pour cmdGa : 
+etat des taches pour cmdHb : 
+etat des taches pour cmdIc : 
+etat des taches pour cmdJc : 
+etat des taches pour cmdKc : 
+charge de travail pour trAabc : 
+charge de travail pour trBab : 
+charge de travail pour trCabc : 
+charge de travail pour trAabc : cmdKc/speA/101heure(s)
+charge de travail pour trBab : 
+charge de travail pour trCabc : 
+charge de travail pour trAabc : cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s)
+charge de travail pour trCabc : 
+charge de travail pour trAabc : cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s)
+charge de travail pour trCabc : cmdAd/speA/1heure(s)
+charge de travail pour trAabc : cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s)
+charge de travail pour trCabc : cmdAd/speA/1heure(s), cmdBa/speA/11heure(s)
+charge de travail pour trAabc : cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s)
+charge de travail pour trCabc : cmdAd/speA/1heure(s), cmdAd/speB/2heure(s), cmdBa/speA/11heure(s)
+charge de travail pour trAabc : cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s)
+charge de travail pour trCabc : cmdAd/speA/1heure(s), cmdAd/speB/2heure(s), cmdBa/speA/11heure(s), cmdCd/speA/21heure(s)
+charge de travail pour trAabc : cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s)
+charge de travail pour trCabc : cmdAd/speA/1heure(s), cmdAd/speB/2heure(s), cmdAd/speC/3heure(s), cmdBa/speA/11heure(s), cmdCd/speA/21heure(s)
+charge de travail pour trAabc : cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s)
+charge de travail pour trCabc : cmdAd/speA/1heure(s), cmdAd/speB/2heure(s), cmdAd/speC/3heure(s), cmdBa/speA/11heure(s), cmdCd/speA/21heure(s), cmdIc/speC/83heure(s)
+charge de travail pour trAabc : cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s), cmdFc/speA/51heure(s)
+charge de travail pour trCabc : cmdAd/speA/1heure(s), cmdAd/speB/2heure(s), cmdAd/speC/3heure(s), cmdBa/speA/11heure(s), cmdCd/speA/21heure(s), cmdIc/speC/83heure(s)
+charge de travail pour trAabc : cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s), cmdFc/speA/51heure(s), cmdIc/speA/81heure(s)
+charge de travail pour trCabc : cmdAd/speA/1heure(s), cmdAd/speB/2heure(s), cmdAd/speC/3heure(s), cmdBa/speA/11heure(s), cmdCd/speA/21heure(s), cmdIc/speC/83heure(s)
+charge de travail pour trAabc : cmdBa/speB/12heure(s), cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s), cmdFc/speA/51heure(s), cmdIc/speA/81heure(s)
+charge de travail pour trCabc : cmdAd/speA/1heure(s), cmdAd/speB/2heure(s), cmdAd/speC/3heure(s), cmdBa/speA/11heure(s), cmdCd/speA/21heure(s), cmdIc/speC/83heure(s)
+etat des taches pour cmdAd : speA:0/1, speB:0/2, speC:0/3
+etat des taches pour cmdBa : speA:0/11, speB:0/12, speC:0/13
+etat des taches pour cmdCd : speA:0/21, speB:0/22, speC:0/23
+etat des taches pour cmdDa : speA:0/31, speC:0/33
+etat des taches pour cmdEb : speB:0/42, speC:0/43
+etat des taches pour cmdFc : speA:0/51
+etat des taches pour cmdGa : speB:0/62
+etat des taches pour cmdHb : speC:0/73
+etat des taches pour cmdIc : speA:0/81, speC:0/83
+etat des taches pour cmdJc : speB:0/92, speC:0/93
+etat des taches pour cmdKc : speA:0/101, speB:0/102
+charge de travail pour trAabc : cmdBa/speB/12heure(s), cmdBa/speC/13heure(s), cmdCd/speB/22heure(s), cmdCd/speC/23heure(s), cmdDa/speC/33heure(s), cmdGa/speB/62heure(s), cmdHb/speC/73heure(s), cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s), cmdFc/speA/51heure(s), cmdIc/speA/81heure(s), cmdJc/speB/92heure(s)
+charge de travail pour trCabc : cmdAd/speA/1heure(s), cmdAd/speB/2heure(s), cmdAd/speC/3heure(s), cmdBa/speA/11heure(s), cmdCd/speA/21heure(s), cmdEb/speB/42heure(s), cmdEb/speC/43heure(s), cmdIc/speC/83heure(s), cmdJc/speC/93heure(s), cmdKc/speB/102heure(s)
+etat des taches pour cmdAd : speA:1/1, speB:0/2, speC:0/3
+etat des taches pour cmdBa : speA:0/11, speB:0/12, speC:0/13
+etat des taches pour cmdCd : speA:0/21, speB:0/22, speC:0/23
+etat des taches pour cmdDa : speA:0/31, speC:0/33
+etat des taches pour cmdEb : speB:0/42, speC:0/43
+etat des taches pour cmdFc : speA:0/51
+etat des taches pour cmdGa : speB:0/62
+etat des taches pour cmdHb : speC:0/73
+etat des taches pour cmdIc : speA:0/81, speC:0/83
+etat des taches pour cmdJc : speB:0/92, speC:0/93
+etat des taches pour cmdKc : speA:0/101, speB:0/102
+etat des taches pour cmdAd : speA:1/1, speB:0/2, speC:0/3
+etat des taches pour cmdBa : speA:4/11, speB:0/12, speC:0/13
+etat des taches pour cmdCd : speA:0/21, speB:0/22, speC:2/23
+etat des taches pour cmdDa : speA:0/31, speC:0/33
+etat des taches pour cmdEb : speB:0/42, speC:0/43
+etat des taches pour cmdFc : speA:0/51
+etat des taches pour cmdGa : speB:3/62
+etat des taches pour cmdHb : speC:0/73
+etat des taches pour cmdIc : speA:0/81, speC:6/83
+etat des taches pour cmdJc : speB:5/92, speC:0/93
+etat des taches pour cmdKc : speA:0/101, speB:0/102
+facturation cmdAd : speA:10, speB:40, speC:90
+etat des taches pour cmdAd : speA:1/1, speB:2/2, speC:3/3
+etat des taches pour cmdBa : speA:4/11, speB:0/12, speC:0/13
+etat des taches pour cmdCd : speA:0/21, speB:0/22, speC:2/23
+etat des taches pour cmdDa : speA:0/31, speC:0/33
+etat des taches pour cmdEb : speB:0/42, speC:0/43
+etat des taches pour cmdFc : speA:0/51
+etat des taches pour cmdGa : speB:4/62
+etat des taches pour cmdHb : speC:0/73
+etat des taches pour cmdIc : speA:0/81, speC:6/83
+etat des taches pour cmdJc : speB:5/92, speC:0/93
+etat des taches pour cmdKc : speA:0/101, speB:0/102
+facturation cmdCd : speA:210, speB:440, speC:690
+etat des taches pour cmdAd : speA:1/1, speB:2/2, speC:3/3
+etat des taches pour cmdBa : speA:4/11, speB:0/12, speC:0/13
+etat des taches pour cmdCd : speA:21/21, speB:22/22, speC:23/23
+etat des taches pour cmdDa : speA:0/31, speC:0/33
+etat des taches pour cmdEb : speB:0/42, speC:0/43
+etat des taches pour cmdFc : speA:0/51
+etat des taches pour cmdGa : speB:4/62
+etat des taches pour cmdHb : speC:10/73
+etat des taches pour cmdIc : speA:0/81, speC:6/83
+etat des taches pour cmdJc : speB:15/92, speC:0/93
+etat des taches pour cmdKc : speA:0/101, speB:0/102
+charge de travail pour trAabc : cmdBa/speB/12heure(s), cmdBa/speC/13heure(s), cmdDa/speC/33heure(s), cmdGa/speB/58heure(s), cmdHb/speC/63heure(s), cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s), cmdFc/speA/51heure(s), cmdIc/speA/81heure(s), cmdJc/speB/77heure(s)
+charge de travail pour trCabc : cmdBa/speA/7heure(s), cmdEb/speB/42heure(s), cmdEb/speC/43heure(s), cmdIc/speC/77heure(s), cmdJc/speC/93heure(s), cmdKc/speB/102heure(s)
+charge de travail pour trAabc : cmdBa/speB/12heure(s), cmdBa/speC/13heure(s), cmdDa/speC/33heure(s), cmdGa/speB/58heure(s), cmdHb/speC/63heure(s), cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s), cmdFc/speA/51heure(s), cmdIc/speA/81heure(s), cmdJc/speB/76heure(s)
+charge de travail pour trCabc : cmdBa/speA/7heure(s), cmdEb/speB/42heure(s), cmdEb/speC/43heure(s), cmdIc/speC/77heure(s), cmdJc/speC/93heure(s), cmdKc/speB/102heure(s)
+charge de travail pour trAabc : cmdBa/speB/12heure(s), cmdBa/speC/13heure(s), cmdDa/speC/33heure(s), cmdGa/speB/58heure(s), cmdHb/speC/63heure(s), cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s), cmdEb/speB/41heure(s), cmdFc/speA/51heure(s), cmdIc/speA/81heure(s), cmdJc/speB/76heure(s)
+charge de travail pour trCabc : cmdBa/speA/7heure(s), cmdEb/speC/43heure(s), cmdIc/speC/77heure(s), cmdJc/speC/93heure(s), cmdKc/speB/102heure(s)
+charge de travail pour trAabc : cmdBa/speB/12heure(s), cmdBa/speC/13heure(s), cmdDa/speC/33heure(s), cmdGa/speB/58heure(s), cmdHb/speC/62heure(s), cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s), cmdEb/speB/41heure(s), cmdFc/speA/51heure(s), cmdIc/speA/81heure(s), cmdJc/speB/76heure(s)
+charge de travail pour trCabc : cmdBa/speA/7heure(s), cmdEb/speC/43heure(s), cmdIc/speC/77heure(s), cmdJc/speC/93heure(s), cmdKc/speB/102heure(s)
+etat des taches pour cmdAd : speA:1/1, speB:2/2, speC:3/3
+etat des taches pour cmdBa : speA:4/11, speB:0/12, speC:0/13
+etat des taches pour cmdCd : speA:21/21, speB:22/22, speC:23/23
+etat des taches pour cmdDa : speA:0/31, speC:0/33
+etat des taches pour cmdEb : speB:1/42, speC:1/43
+etat des taches pour cmdFc : speA:0/51
+etat des taches pour cmdGa : speB:4/62
+etat des taches pour cmdHb : speC:11/73
+etat des taches pour cmdIc : speA:0/81, speC:6/83
+etat des taches pour cmdJc : speB:16/92, speC:0/93
+etat des taches pour cmdKc : speA:0/101, speB:0/102
+charge de travail pour trAabc : cmdBa/speB/12heure(s), cmdBa/speC/13heure(s), cmdDa/speC/33heure(s), cmdEb/speC/42heure(s), cmdGa/speB/58heure(s), cmdHb/speC/62heure(s), cmdKc/speA/101heure(s)
+charge de travail pour trBab : cmdDa/speA/31heure(s), cmdEb/speB/41heure(s), cmdFc/speA/51heure(s), cmdIc/speA/81heure(s), cmdJc/speB/76heure(s)
+charge de travail pour trCabc : cmdBa/speA/7heure(s), cmdIc/speC/77heure(s), cmdJc/speC/93heure(s), cmdKc/speB/102heure(s)
+facturation cmdBa : speA:110, speB:240, speC:390
+facturation cmdDa : speA:310, speC:990
+facturation cmdEb : speB:840, speC:1290
+facturation cmdFc : speA:510
+facturation cmdGa : speB:1240
+facturation cmdHb : speC:2190
+facturation cmdIc : speA:810, speC:2490
+facturation cmdJc : speB:1840, speC:2790
+facturation cmdKc : speA:1010, speB:2040
+facturations : cltA:3280, cltB:4320, cltC:11490, cltD:1480

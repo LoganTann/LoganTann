@@ -1,0 +1,9 @@
+Lampe ; 2.0 ; 30.0
+Sac de couchage ; 1.0 ; 20.0
+Camping gaz ; 3.0 ; 40.0
+Couteau suisse ; 0.2 ; 50.0
+Snickers ; 0.1 ; 3.0
+Tente 2 secondes ; 3.0 ; 100.0
+Briquet ; 0.2 ; 3.0
+Coca ; 10.0 ; 20.0
+Chips ; 0.2 ; 2.0

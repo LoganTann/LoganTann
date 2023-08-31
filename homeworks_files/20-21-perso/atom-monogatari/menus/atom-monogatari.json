@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Start dev server",
+        "command": "atom-monogatari:startDevServer"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-monogatari",
+          "submenu": [
+            {
+              "label": "Start dev server",
+              "command": "atom-monogatari:startDevServer"
+            },
+            {
+              "label": "Toggle",
+              "command": "atom-monogatari:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

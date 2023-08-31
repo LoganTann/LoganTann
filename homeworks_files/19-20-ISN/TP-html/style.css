@@ -1,0 +1,68 @@
+/*
+  CODE CSS DU SITE WEB
+  Logan Tann
+*/
+
+
+/*Page principale*/
+table {
+  background: #666666;
+  height: 100%;
+  width: 100%;
+  /*Contrainte du HTML 5 :*/
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* haut et bas de page*/
+#header, #footer {
+  height: 50px;
+  text-align: center;
+}
+
+/* Section principale */
+#main {
+  vertical-align: top; /*On ne centre pas verticalement le texte dans la cellule du tableau*/
+}
+
+  /*Navigation*/
+  #nav {
+    width: 200px;
+    background: #AAAAAA;
+  }
+    #nav img { /*Logo*/
+      padding-bottom: 20px;
+      border-bottom: 1px solid black;
+    }
+    #nav ol { /*Navigation entre sous-parties*/
+      padding-left: 10px;
+    }
+
+  /*Contenu de l'article*/
+  #article {
+    padding: 20px; /* Crée une marge intérieure de 20px dans la cellule*/
+    background: #EEEEEE;
+  }
+  /*Composants*/
+  #article em {
+    color: #555555;
+  }
+  #article .blockquote {
+    border-left: 5px solid green;
+    background: #AAFFAA;
+    padding-left: 10px;
+  }
+  #article .pre{
+    border: 1px solid gray; border-radius: 3px;
+    background: #AAAAAA;
+    padding: 2px;
+    font-family: monospace;
+  }
+  #article .tab {
+    margin-left: 40px;
+  }
+  #article img, #article iframe { /*Une formule magique pour centrer la quasi totalité de ce qu'on veut*/
+    display: block;
+    margin: auto;
+  }

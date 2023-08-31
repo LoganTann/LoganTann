@@ -1,0 +1,330 @@
+".source.js":
+
+  #unfinished but covered by tests
+
+  "Dialog":
+    prefix: "say"
+    body: """
+      "${1:narrator} ${2:dialog_message}",
+      $3
+    """
+    description: """
+      Creates a character dialog that will be displayed in the text-box
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/dialogs"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+
+    # need autocompletion character
+
+  "Dialog with side image":
+    prefix: "say:"
+    body: """
+      "${1:narrator}:${2:expression} ${3:dialog_message}",
+    """
+    description: """
+      Creates a character dialog that will be displayed in the text-box, with a side image (need to be declared in the script.js file)
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/dialogs"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+
+    # need autocompletion character+expression
+
+  "Label (with translation support)":
+    prefix: "label"
+    body: """
+      monogatari.label('${1:LabelName}', '${2:English}', [
+        $3
+      ]);
+    """
+    description: """
+      Creates a label for your game, containing a list of statements that will be run one by one as your story unfolds.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/building-blocks/script-and-labels"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+
+    # need autocompletion label ??
+
+  "Choice menu":
+    prefix: "choice"
+    body: """
+      {"Choice": {
+        "${1:Choice 1}": {
+          Text: "${1:Button Content}",
+          Do: ${2:"next"}
+        },
+        $3
+      }},
+      $4
+    """
+    description: """
+      Adds a choice menu with a simple choice button. The choice menu can also be extended with commands like Dialog and Timer.
+      Click the more button to open the docs.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/choices#overview"
+    leftLabelHTML: '<span title="" class="monogatari-snippet block"></span>'
+
+  "Choice button":
+    prefix: "choiceb"
+    body: """
+      "${1:key}": {
+        Text: "${1:Button Content}",
+        Do: ${2:"narrator Check the choices docs to create advanced buttons"}
+      },
+      $3
+    """
+    leftLabelHTML: '<span title="" class="monogatari-snippet block"></span>'
+
+  "Timer for a Choice Menu":
+    prefix: "timer"
+    body: """
+      "Timer": {
+        time: ${1:5000},
+        callback() {
+          ${2:// block of code to run when the timer reaches 5 seconds}
+          return Promise.resolve();
+        }
+      },
+      $3
+    """
+    leftLabelHTML: '<span title="" class="monogatari-snippet block"></span>'
+
+  # WORK OK --------------------------------------------------------------
+
+  "clear":
+    prefix: "clear"
+    body: """
+      "clear",
+      $1
+    """
+    description: """
+      The `clear` action will clear the textbox, removing any dialogs in it and leaving it completely blank.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/clear"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+
+  "next":
+    prefix: "next"
+    body: """
+      "next",
+      $1
+    """
+    description: """
+      The `next` action will simply continue to the next statement whithout doing anuhing else.
+      This action is usually used in the Do property of a choice menu.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/next"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+
+  "end":
+    prefix: "end"
+    body: """
+      "end",
+      $1
+    """
+    description: """
+      The end action is how all of your scripts must finish. End will cause the game to finish and will return to the main menu. It will also reset all of the storage, actions and components to their initial state.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/end"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+
+  "gallery":
+    prefix: "gallery"
+    body: """
+      "gallery ${2:unlock} ${1:<gallery_image_id>}",
+      $3
+    """
+    description: """
+      Unlocks (or locks) a gallery image.
+      On a fresh game install, all gallery images are locked and can be unlocked by using this action.
+      Gallery images needs to be declared in your `script.js` file, click in "More…" for doc info.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/image-gallery"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+    # need autocompletion lock/unlock + gallery asset ID
+
+  "jump":
+    prefix: "jump"
+    body: """
+      "jump ${1:<label_id>}",
+      $2
+    """
+    description: """
+      jumps onto a label.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/jump"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+    # need autocompletion label
+
+  "wait":
+    prefix: "wait"
+    body: """
+      "wait ${1:[time]}",
+      $2
+    """
+    description: """
+      The `wait` action allows us to make the game wait for a certain amount of `time` (or for player interaction if no time is provided) before continuing to the next statement.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/wait"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+
+  "call a placeholder":
+    prefix: "$"
+    body: """
+      "$ ${1:<placeholder_name>} $2",
+      $3
+    """
+    description: """
+      Calls a placeholder, which is a defined batch of instructions. This is particularly useful when you have an action that is repeated multiple times in your game or when loading your script from an external source.
+      For advanced users who wishes to create custom commands, `monogatari.registerAction();` might be more suited for you.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/placeholder"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+    # need autocompletion placeholders ???
+
+  "vibrate":
+    prefix: "vibrate"
+    body: """
+      "vibrate $1{<...pattern>}",
+      $2
+    """
+    description: """
+      Vibrate the player's device (and not shaking the screen), as long as it is supported by the browser.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/vibrate"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+
+  "Input box":
+    prefix: "input"
+    body: """
+      {'Input': {
+        Text: '${1:The text to be displayed in the input dialog.}',
+        Validation(input) {
+          ${3:// block of javasript code that returns true if the input is valid}
+        },
+        Save(input) {
+          ${4:// block of javascript code that executes if Validation returned false}
+        },
+        Revert() {
+          ${5:// block of javascript code that executes when the player rolls back an input}
+        },
+        Warning: '${2:Message displayed if Validation returns false}'
+      }},
+      $6
+    """
+    description: """
+      Prompts the player to enter a value into an input box, and calls javascript code for validation or saving the input.
+      The input box can also be extended with properties like Type or Timer, click in "More…" for doc info.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/input"
+    leftLabelHTML: '<span title="" class="monogatari-snippet block"></span>'
+
+
+  "Function (Reversible)":
+    prefix: "function"
+    body: """
+      {'Function':{
+        Apply() {
+          ${1:// block of javascript code to be executed when going over the game}
+        },
+        Reverse() {
+          ${2:// block of javascript code to be executed when going back}
+        }
+      }},
+      $3
+    """
+    description: """
+      Monogatari is written in Javascript, and includes support for including functions that can be called and rolled-back from your visual novel script.
+      Although insering direclty a javascript function works, they can't be reverted and will block the player from rolling back.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/javascript"
+    leftLabelHTML: '<span title="" class="monogatari-snippet block"></span>'
+
+  "Conditional":
+    prefix: "function"
+    body: """
+      {'Conditional': {
+          Condition(){
+              return ${1:this.storage ('played')};
+          },
+          'True': '${2:jump Played}',
+          'False': '${3:jump NewGame}'
+      }},
+      $3
+    """
+    description: """
+      Allows you to control the flow of your game depending on certains conditions. It takes a Condition function that determines wether the condition is met or not and will call the matching statement.
+      The conditional block can also act like a switch-case block, click the more button to open the docs.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script-actions/conditionals"
+    leftLabelHTML: '<span title="" class="monogatari-snippet block"></span>'
+    # todo quote+snippet fix
+
+  "Play ...":
+    prefix: "play"
+    body: """
+      "play ${1:music} ${2:asset_id} $3",
+      $4
+    """
+    description: """
+      Usage : `play <media_type> <asset_id> [with [properties]]`
+      Lets you play `music`, `sounds` or `voice`.
+      Properties : fade, volume or loop
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script/audio"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+    # need autocompletion music/sound/voice + asset ID
+
+
+  "Stop ...":
+    prefix: "stop"
+    body: """
+      "stop ${1:music} ${2:asset_id} $3",
+      $4
+    """
+    description: """
+      Usage : `stop <media_type> [<asset_id>] [with [fade]]`
+      Lets you stop either all `music|sound|voice` currently playing, or only one in specific.
+    """
+    descriptionMoreURL: "https://developers.monogatari.io/documentation/script/audio"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+    # need autocompletion music/sound/voice + asset ID and intelligence ?
+
+  "Centered Dialog":
+    prefix: "centered"
+    body: """
+      "centered ${1:This is an example of centered text}",
+      $2
+    """
+    description: """
+      The `centered` command is like a special character-id that goes at the beginning of dialog text to display a special floating box that hovers in the very center of the screen.
+    """
+    descriptionMoreURL: "TODO"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+
+
+  "Novel-like Dialog":
+    prefix: "nvl"
+    body: """
+      "nvl ${1:This is an example of NVL text.}",
+      $2
+    """
+    description: """
+      The `nvl` text differs from normal Monogatari text in that clicking does not clear the current text off of the screen, and instead leaves it there, feeding consecutive NVL dialogue one at a time as the player clicks to progress.
+    """
+    descriptionMoreURL: "TODO"
+    leftLabelHTML: '<span title="" class="monogatari-snippet statement"></span>'
+
+  # == draft ==
+
+  # Todo : show particles background image scene video notification message
+  # Todo : hide video canvas particles image character
+  # Todo : font awesome
+
+  # autocompletion : using universal assets and checking ?
+  # classes : center left right bottom middle text--left/center/right vertical horizontal dark light (=> design/classes)
+  # character helper
+  #  **main.js** | If you want to add more javascript, this is the file to do it! |
+  # **options.js** | Initial settings of your game and engine settings. |
+  # **script.js** | The main script of your game. \(Here's where your story, characters, images etc are declared\) |
+  # **storage.js** | This is where you'll declare your custom variables that you want to save in your games. |
+  # Todo : register action

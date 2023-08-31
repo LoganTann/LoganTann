@@ -1,0 +1,37 @@
+specialites traitees : reseau/18, graphisme/13
+la specialite reseau peut etre prise en charge par : Toto
+la specialite graphisme peut etre prise en charge par : Titi
+la specialite reseau peut etre prise en charge par : Toto
+la specialite graphisme peut etre prise en charge par : Titi
+le client Roger a commande : 
+le client Rodgio a commande : 
+le client Roger a commande : 
+le client Rodgio a commande : 
+## nouvelle commande "superProduit", par client "Roger"
+## nouvelle commande "produiTop", par client "Rodgio"
+le client Roger a commande : 
+le client Rodgio a commande : 
+le client Roger a commande : 
+le client Rodgio a commande : 
+## consultation de l'avancement des commandes
+## la commande "superProduit" requiere la specialite "reseau" (nombre d'heures "45")
+## la commande "superProduit" requiere la specialite "graphisme" (nombre d'heures "32")
+## la commande "produiTop" requiere la specialite "graphisme" (nombre d'heures "67")
+## la commande "produiTop" requiere la specialite "reseau" (nombre d'heures "28")
+## consultation de l'avancement des commandes
+## consultation de la charge de travail de "Toto"
+## consultation de la charge de travail de "Titi"
+## pour la commande "superProduit", pour la specialite "reseau" : "5" heures de plus ont ete realisees
+## pour la commande "superProduit", pour la specialite "graphisme" : "7" heures de plus ont ete realisees
+## pour la commande "produiTop", pour la specialite "graphisme" : "21" heures de plus ont ete realisees
+## pour la commande "produiTop", pour la specialite "reseau" : "16" heures de plus ont ete realisees
+## pour la commande "superProduit", pour la specialite "reseau" : "3" heures de plus ont ete realisees
+## une reallocation est requise
+## pour la commande "produiTop", pour la specialite "graphisme" : "2" heures de plus ont ete realisees
+## une reallocation est requise
+## pour la commande "superProduit", pour la specialite "reseau" : "1" heures de plus ont ete realisees
+## pour la commande "produiTop", pour la specialite "graphisme" : "1" heures de plus ont ete realisees
+## consultation de l'avancement des commandes
+## consultation de la charge de travail de "Toto"
+## consultation de la charge de travail de "Titi"
+## fin de programme

@@ -1,0 +1,34 @@
+specialites traitees : reseau/18, graphisme/13
+la specialite reseau peut etre prise en charge par : Toto
+la specialite graphisme peut etre prise en charge par : Toto, Titi
+le client Roger a commande : 
+le client Rodgio a commande : 
+le client Roger a commande : superProduit, megaProduit
+le client Rodgio a commande : produiTop, produiThyper
+etat des taches pour superProduit : 
+etat des taches pour produiTop : 
+etat des taches pour megaProduit : 
+etat des taches pour produiThyper : 
+charge de travail pour Toto : superProduit/reseau/45heure(s)
+charge de travail pour Titi : 
+charge de travail pour Toto : superProduit/reseau/45heure(s), superProduit/graphisme/32heure(s)
+charge de travail pour Titi : 
+charge de travail pour Toto : superProduit/reseau/45heure(s), superProduit/graphisme/32heure(s), produiTop/graphisme/67heure(s)
+charge de travail pour Titi : 
+charge de travail pour Toto : superProduit/reseau/45heure(s), superProduit/graphisme/32heure(s), produiTop/graphisme/67heure(s), megaProduit/graphisme/100heure(s)
+charge de travail pour Titi : 
+charge de travail pour Toto : superProduit/reseau/45heure(s), superProduit/graphisme/32heure(s), produiTop/graphisme/67heure(s), megaProduit/graphisme/100heure(s), produiThyper/graphisme/15heure(s)
+charge de travail pour Titi : 
+charge de travail pour Toto : superProduit/reseau/45heure(s), superProduit/graphisme/32heure(s), produiTop/reseau/28heure(s), produiTop/graphisme/67heure(s), megaProduit/graphisme/100heure(s), produiThyper/graphisme/15heure(s)
+charge de travail pour Titi : 
+etat des taches pour superProduit : reseau:0/45, graphisme:0/32
+etat des taches pour produiTop : reseau:0/28, graphisme:0/67
+etat des taches pour megaProduit : graphisme:0/100
+etat des taches pour produiThyper : graphisme:0/15
+etat des taches pour superProduit : reseau:9/45, graphisme:7/32
+etat des taches pour produiTop : reseau:16/28, graphisme:24/67
+etat des taches pour megaProduit : graphisme:0/100
+etat des taches pour produiThyper : graphisme:0/15
+charge de travail pour Toto : superProduit/reseau/36heure(s), superProduit/graphisme/25heure(s), produiTop/reseau/12heure(s), produiTop/graphisme/43heure(s), megaProduit/graphisme/100heure(s), produiThyper/graphisme/15heure(s)
+charge de travail pour Titi : 
+## fin de programme

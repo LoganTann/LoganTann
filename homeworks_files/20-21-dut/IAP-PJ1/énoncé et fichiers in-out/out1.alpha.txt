@@ -1,0 +1,30 @@
+## nouvelle specialite "reseau" ; cout horaire "18"
+## nouvelle specialite "graphisme" ; cout horaire "13"
+## consultation des specialites
+## nouveau travailleur "Toto" competent pour la specialite "reseau"
+## nouveau travailleur "Titi" competent pour la specialite "graphisme"
+## nouveau travailleur "Toto" competent pour la specialite "graphisme"
+## consultation des travailleurs competents pour la specialite "reseau"
+## consultation des travailleurs competents pour la specialite "graphisme"
+## nouveau client "Roger"
+## nouveau client "Rodgio"
+## consultation des commandes effectuees par "Roger"
+## consultation des commandes effectuees par "Rodgio"
+## nouvelle commande "superProduit", par client "Roger"
+## nouvelle commande "produiTop", par client "Rodgio"
+## consultation de l'avancement des commandes
+## la commande "superProduit" requiere la specialite "reseau" (nombre d'heures "45")
+## la commande "superProduit" requiere la specialite "graphisme" (nombre d'heures "32")
+## la commande "produiTop" requiere la specialite "graphisme" (nombre d'heures "67")
+## la commande "produiTop" requiere la specialite "reseau" (nombre d'heures "28")
+## consultation de l'avancement des commandes
+## consultation de la charge de travail de "Toto"
+## consultation de la charge de travail de "Titi"
+## pour la commande "superProduit", pour la specialite "reseau" : "5" heures de plus ont ete realisees
+## pour la commande "superProduit", pour la specialite "graphisme" : "7" heures de plus ont ete realisees
+## pour la commande "produiTop", pour la specialite "graphisme" : "21" heures de plus ont ete realisees
+## pour la commande "produiTop", pour la specialite "reseau" : "16" heures de plus ont ete realisees
+## consultation de l'avancement des commandes
+## consultation de la charge de travail de "Toto"
+## consultation de la charge de travail de "Titi"
+## fin de programme

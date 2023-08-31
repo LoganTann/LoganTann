@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="fr-FR" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>À l'époque - Le web en ... 2000</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <table>
+      <tr id="header">
+        <td colspan="2">
+          <h1>À l'époque</h1>
+        </td>
+      </tr>
+
+      <tr id="main">
+        <td id="nav">
+          <br>
+          <img src="logo.gif" alt="Le Web En 2000">
+          <h3>Navigation : </h3>
+          <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li>
+              <b>À l'époque</b><br>
+              <ol>
+                <li><a href="#part1">La strcture de la page</a></li>
+                <li><a href="#part2">La taille, les couleurs et les fichiers</a></li>
+                <li><a href="#part3">Les images</a></li>
+              </ol>
+            </li>
+            <li><a href="now.html">Le web moderne</a></li>
+          </ul>
+        </td>
+
+        <td id="article">
+          <p>Comme dit en introduction, les ordis étaient vachement lents à l'époque.<br>
+            Une page web mettait plusieurs minutes à charger, sans compter la
+            lenteur de l'ordi !
+          </p>
+          <p>À l'époque, on était au (X-)HTML 4 voire moins. Les balises devaient
+            être en majuscule, presque pas de CSS car tout était dans des attributs.
+          </p>
+
+          <h3 id="part1">1. La strcture de la page</h3>
+
+          <p>Pour créer un site niveau design, beaucoup utilisaient...
+            Un tableau !! <br>
+            C'est exactement le cas de ce site !
+          </p>
+          <ol>
+            <li>Une première ligne de deux colones fusionnées pour le titre</li>
+            <li>Une seconde ligne avec :
+              <ul>
+                <li>Une première colone pour la navigation latérale</li>
+                <li>Une seconde colone pour le contenu de l'artcile</li>
+              </ul>
+            </li>
+            <li>Une troisième ligne de deux colones fusionnées pour le bas de page</li>
+          </ol>
+          <p>Je vous invite à regarder le code source de cette page !</p>
+
+          <h3 id="part2">2. La taille, les couleurs et les fichiers</h3>
+
+          <p>Auparavant, tout le monde était sur Internet Explorer ou l'ancêtre
+            de firefox (Netscape), et les écrans étaient de taille moyenne de
+            800 par 600 px. <br>
+            En sachant cela, preque toutes les tailles dans le CSS étaient en
+            pixels, et non en pourcentages comme on le fait conventionnelement
+            actuellement
+          </p>
+          <p>En ce qui concerne les couleurs, nous n'avions pas d'écrans très
+            performants, la palette de couleur était donc assez limitée. Les
+            développeurs utilisaient alors des couleurs pas très belles, voire
+            que des nuances de gris comme pour ce site ! <br>
+            Désormais, on retrouve des palettes de jolies couleurs sur internet,
+            et le design web doit respecter plein de codes et contraintes !
+          </p>
+          <img src="color.jpg" alt="Désormais, de jolies couleurs sont
+          trouvables sur des sites comme https://materializecss.com/color.html">
+          <p>Généralement, les pages web étaient encodées en ASCII, un standard
+            de l'époque, car tous les ordinateurs le supportaient.
+            <br>
+            À l'époque, l'unicode n'était pas encore populaire <em>(il ne l'a
+            jamais vraiment été)</em>, de même pour l'UTF-8 <em>(le standard de
+            nos jours)</em>. <br>
+            Certains développeurs sous Linux programmaient sur une console (le
+            <span style="background: black; color: #0F0;font-family:monospace;">
+            machin en police monospace vert sur fond noir</span> que vous voyez dans
+            les films de hackers) qui avait une limitation de 80 caractères par
+            lignes. C'est pour cela que vous verrez des sauts de lignes réguliers
+            afin que le code soit lisible sur console dans sa globalité !
+          </p>
+          <p><img src="80char.jpg" alt="Même les éditeurs de texte récents proposent un guide à 80 caractères"></p>
+          <p><img src="links.jpg" alt="Un navigateur sur console existe : Links !"></p>
+
+
+          <h3 id="part3">3. Les images</h3>
+          <p>Les formats d'images sont parmi les choses dans le web qui n'ont
+            fait que de s'améliorer positivement au cours du temps <em>(contrairement
+            au JavaScript qui est devenu certes rapide, mais dont les développeurs ont
+            tendence à trop en abuser, rendant leurs page web beaucoup plus
+            lourdes et lentes)</em>
+          </p>
+          <p>À l'époque, le format en vogue était le JPEG pour sa taille, et le
+            PNG (tiens, son site est aussi moche que le mien !). <br>
+            Avec sa limitation à 127 couleurs <em>(plus faible taille que le JPEG mais
+            pas de compression)</em>, le GIF était le plus populaire pour de petites
+            images ou des composants de l'interface d'un site. <b>Et en plus,
+            c'était animé !</b> <br>
+            Désormais, le format JPEG et PNG ont évolué niveau compression, et
+            depuis un an, un nouveau format est apparu : le WebP <em>(équivalent
+            PNG plus léger et pouvant être animé)</em> et le WebM
+            <em>(alternative au mp4).</em>
+          </p>
+        </td>
+      </tr>
+
+      <tr id="footer">
+        <td colspan="2">
+          <p><em>Site créé par <a href="https://github.com/LoganTann/">Logan Tann</a></em>, ISN LPL-Evry</p>
+          <p><a href="#">Revenir en haut</a></p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

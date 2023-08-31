@@ -1,0 +1,40 @@
+{
+  "name": "PWEB-PJ2",
+  "version": "1.0.0",
+  "homepage": "https://logantann.github.io/PWEB-PJ2",
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-leaflet": "^3.2.5",
+    "react-scripts": "5.0.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.7.9",
+    "@types/react": "^17.0.39",
+    "gh-pages": "^3.2.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

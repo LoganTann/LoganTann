@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Glouton" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="BUNDLED" />
+    <option name="MAIN_CLASS_NAME" value="appli.Application" />
+    <module name="AAV-PJ1" />
+    <option name="PROGRAM_PARAMETERS" value="wikipedia.txt 15 glouton" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

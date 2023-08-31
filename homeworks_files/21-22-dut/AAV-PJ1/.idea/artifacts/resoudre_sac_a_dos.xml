@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="resoudre-sac-a-dos">
+    <output-path>$PROJECT_DIR$/ProjetAAV/out/artifacts/resoudre_sac_a_dos</output-path>
+    <root id="archive" name="resoudre-sac-a-dos.jar" />
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+a.out
+ignore
+Thumbs.db
+
+OpenMascot
+
+# cmake caches
+*CMakeFiles
+*CMakeCache.txt
+*cmake_install.cmake
+*Makefile
+
+
+#temp :
+*.png
+*conf/

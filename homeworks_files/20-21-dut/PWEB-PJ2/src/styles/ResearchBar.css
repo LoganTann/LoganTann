@@ -1,0 +1,28 @@
+.rech-bar form {
+  display: flex;
+  justify-content: space-around;
+}
+.rech-bar input {
+  border-radius: 4px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.rech-bar input[type="submit"] {
+  background: #cc0033;
+  color: white;
+}
+
+.rech-bar div {
+  padding: 1em;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.rech-bar hr {
+  color: #ccc;
+}
+.rech-bar div:hover {
+  transform: scale(1.05);
+  background: rgba(255,255,255,0.7);
+}

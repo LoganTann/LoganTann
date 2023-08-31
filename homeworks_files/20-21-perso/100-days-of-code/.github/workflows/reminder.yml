@@ -1,0 +1,17 @@
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 10 * * *'
+
+jobs:
+    run:
+        runs-on: ubuntu-latest
+        steps:
+         - uses: muinmomin/webhook-action@v1.0.0
+           with:
+              url: ${{ secrets.WEBHOOK_URL }}
+              data: >
+                {"content": ".```diff\n+  ~ ~ ~  Bonjour !  ~ ~ ~  +```. \n
+                N'oublie pas ton 100 days of code challenge ! <@!272777471311740929>
+                "}

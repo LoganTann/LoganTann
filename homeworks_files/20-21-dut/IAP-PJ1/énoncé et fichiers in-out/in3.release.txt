@@ -1,0 +1,57 @@
+developpe reseau 18
+developpe graphisme 13
+specialites
+
+embauche Toto reseau
+embauche Titi graphisme
+embauche Toto graphisme
+travailleurs reseau
+travailleurs graphisme
+travailleurs tous
+
+demarche Roger
+demarche Rodgio
+client Roger
+client Rodgio
+client tous
+
+supervision
+commande superProduit Roger
+client tous
+supervision
+commande produiTop Rodgio
+client tous
+supervision
+
+
+tache superProduit reseau 45
+supervision
+tache superProduit graphisme 32
+supervision
+tache produiTop graphisme 67
+supervision
+tache produiTop reseau 28
+supervision
+charge Toto
+charge Titi
+
+progression superProduit reseau 5
+supervision
+progression superProduit graphisme 7
+supervision
+progression produiTop graphisme 21
+supervision
+progression produiTop reseau 16
+supervision
+progression superProduit reseau 3 passe
+supervision
+progression produiTop graphisme 2 passe
+supervision
+progression superProduit reseau 1
+supervision
+progression produiTop graphisme 1
+supervision
+charge Toto
+charge Titi
+
+interruption
