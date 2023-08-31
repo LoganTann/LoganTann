@@ -1,0 +1,77 @@
+/*
+  CrossCode NyanIt - spams nyancats above the screen :)
+  could be used for nyan% maybe ?
+*/
+#LOL{
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  color: red;
+  top: 30;
+  left: 30;
+}
+
+
+/* test.html only */
+#test #game{
+  position: absolute;
+  left: 0; right: 0;
+  top: 0px; bottom: 0px;
+  background-color: black;
+}
+
+#nyanButton{
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 11;
+}
+
+#nyanContainer>div {
+  image-rendering: pixelated;
+  background: url("47frames.png");
+  background-size: cover;
+  animation: moveY 3s steps(47) infinite;
+  position: absolute;
+  z-index: 10;
+}
+@keyframes moveY{
+  0%{background-position-y:0%;}
+  100%{background-position-y:100%;}
+}
+#nyanContainer{
+  position: relative;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+/*
+  pre-defined sizes
+*/
+
+
+.size1{
+  width: 50px;
+  height: 28px;
+}
+.size2{ /*default*/
+  width: 73px;
+  height: 41px;
+}
+.size3{
+  width: 100px;
+  height: 56px;
+}
+.size4{
+  width: 178px;
+  height: 100px;
+}
+.size5{
+  width: 300px;
+  height: 168px;
+}
