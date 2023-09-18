@@ -2,7 +2,7 @@
 
 ## Hey there, I'm Logan :wave: 
 
-👨‍🎓 3rd year Software Engineering Student
+👨‍🎓 4th year Software Engineering Student
 
 :cloud: Part-time Salesforce Fullstack Developer
 
@@ -25,8 +25,9 @@
 
 | Project | Description | Tech-stack |
 | -------------- | -------------- | ------------- |
-| *Apprenticeship* | Working on a development tool to create data migration scenarios across salesforce instances | Next.js (react) - Nest.js |
-| [VDA-2024](https://github.com/OnePantheon/VDA-2024) | Creating a presentation video of the association "One Panthéon" | Remotion (react) - Figma |
+| *Apprenticeship* | Working on a development tool to create data migration scenarios across salesforce instances | Next.js (react) - Nest.js - Salesforce ecosystem |
+| *Studies* | Spring, Asp.NET (C#), sys admin, concurrency in C, cryptography,  | Many, Many things :skull: |
+| [VDA-2024](https://github.com/OnePantheon/VDA-2024) | Created a presentation video of the association "One Panthéon", where each frame is generated using code. | Remotion (react) - Figma |
 
 <!--
 ![LWC](https://media.discordapp.net/attachments/974222396200452128/997995044235640913/unknown.png?width=30&height=30) ![Apex](https://media.discordapp.net/attachments/974222396200452128/997995044608946279/unknown.png?width=30&height=30) 
