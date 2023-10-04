@@ -2,11 +2,14 @@
 
 ## Hey there, I'm Logan :wave: 
 
-👨‍🎓 4th year Software Engineering Student
+👨‍🎓 4th year Software Engineering Student at Eviden France (ex-Edifixio)
 
-:cloud: Part-time Salesforce Fullstack Developer
+:cloud: Part-time Salesforce & React Fullstack Developer at Efrei Paris
+
+💻 Member of the board at [@OnePantheon](https://github.com/onepantheon) 
 
 :heart: [Kagescan](https://kagescan.fr)'s Community Leader [(github)](https://github.com/Kagescan)
+
 
 <img width=1000/>
 
@@ -26,7 +29,8 @@
 | Project | Description | Tech-stack |
 | -------------- | -------------- | ------------- |
 | *Apprenticeship* | Working on a development tool to create data migration scenarios across salesforce instances | Next.js (react) - Nest.js - Salesforce ecosystem |
-| *Studies* | Spring, Asp.NET (C#), sys admin, concurrency in C, cryptography,  | Many, Many things :skull: |
+| *Studies* | Spring, Asp.NET (C#), sys admin, concurrency in C, cryptography, ... | Many, Many things :skull: |
+| *Teaching* | Community manager at One Panthéon. Also helping to organize IT workshops at school. | Figma, Powerpoint, Notion |
 | [VDA-2024](https://github.com/OnePantheon/VDA-2024) | Created a presentation video of the association "One Panthéon", where each frame is generated using code. | Remotion (react) - Figma |
 
 <!--
