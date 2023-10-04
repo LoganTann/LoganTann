@@ -2,9 +2,9 @@
 
 ## Hey there, I'm Logan :wave: 
 
-👨‍🎓 4th year Software Engineering Student at Eviden France (ex-Edifixio)
+👨‍🎓 4th year Software Engineering Student at Efrei Paris
 
-:cloud: Part-time Salesforce & React Fullstack Developer at Efrei Paris
+:cloud: Part-time Salesforce & React Fullstack Developer at Eviden France (ex-Edifixio)
 
 💻 Member of the board at [@OnePantheon](https://github.com/onepantheon) 
 
