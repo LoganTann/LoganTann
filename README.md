@@ -28,9 +28,9 @@
 
 | Project | Description | Tech-stack |
 | -------------- | -------------- | ------------- |
-| *Apprenticeship* | Working on a development tool to create data migration scenarios across salesforce instances | Next.js (react) - Nest.js - Salesforce ecosystem |
-| *Studies* | Spring, Asp.NET (C#), sys admin, concurrency in C, cryptography, ... | Many, Many things :skull: |
-| *Teaching* | Community manager at One Panthéon. Also helping to organize IT workshops at school. | Figma, Powerpoint, Notion |
+| *Apprenticeship* | Working on a development tool to create data migration scenarios across salesforce instances | Next.js (react) - Nest.js - Salesforce ecosystem - Clean Architecture |
+| *Studies* | Spring, Asp.NET (C#), FP (Scala), sys admin, concurrency in C, cryptography, ... | Many, Many things :skull: |
+| *Teaching* | Community manager at One Panthéon. Also organizing IT workshops at school. | Figma, Powerpoint, Notion |
 | [VDA-2024](https://github.com/OnePantheon/VDA-2024) | Created a presentation video of the association "One Panthéon", where each frame is generated using code. | Remotion (react) - Figma |
 
 <!--
