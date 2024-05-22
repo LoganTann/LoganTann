@@ -4,7 +4,7 @@
 
 👨‍🎓 4th year Software Engineering Student at Efrei Paris
 
-:cloud: Part-time Salesforce & React Fullstack Developer at Eviden France (ex-Edifixio)
+:cloud: Part-time Fullstack Developer (Node.Js / salesforce)
 
 💻 Member of the board at [@OnePantheon](https://github.com/onepantheon) 
 
@@ -24,13 +24,15 @@
 
 </td></tr></table>
 
-### Technical mood (2024 - Semester 1)
+:sparkles: Visit my knowledge sharing space at https://github.com/LoganTann/LoganTann/discussions
+
+### Technical mood (2024 - Semester 2)
 
 | Project | Description | Tech-stack |
 | -------------- | -------------- | ------------- |
-| *Apprenticeship* | Working on a development tool to create data migration scenarios across salesforce instances | Next.js (react) - Nest.js - Salesforce ecosystem - Clean Architecture |
-| *Studies* | Amazon AWS + Gitlab CI, ML, Network security, Distributed systems... | Many, Many things :skull: |
-| *Teaching* | Community manager at One Panthéon. Also organizing IT workshops at school. | Figma, Powerpoint, Notion |
+| *Apprenticeship* | R&D work on a tool to create efficient data migration scenarios across salesforce instances | Next.js (react) - Nest.js + Rx.js - Salesforce ecosystem - Clean Architecture |
+| *Studies* | Distributed databases, Linux NFS, Microservices... | Many, Many things :skull: |
+| *Teaching* | Secretary of the One Panthéon non-profit organization. Also organizing IT workshops at school. | Figma, Powerpoint, Notion |
 <!--
 ![LWC](https://media.discordapp.net/attachments/974222396200452128/997995044235640913/unknown.png?width=30&height=30) ![Apex](https://media.discordapp.net/attachments/974222396200452128/997995044608946279/unknown.png?width=30&height=30) 
 
