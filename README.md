@@ -29,8 +29,6 @@
 * Blog / Knowldge sharing space on [LoganTann/discussions](https://github.com/LoganTann/LoganTann/discussions)
 * Most school projets are archived on [gitlab.com/LoganTann](https://gitlab.com/users/LoganTann/projects)
 
-:sparkles: Visit my knowledge sharing space at 
-
 ### Technical mood (2024 - Semester 2)
 
 | Project | Description | Tech-stack |
