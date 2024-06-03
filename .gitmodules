@@ -16,3 +16,15 @@
 [submodule "homeworks_files/20-21-dut/S2-IHM-PJ"]
 	path = homeworks_files/20-21-dut/S2-IHM-PJ
 	url = https://gitlab.com/lacremedudevops/S2-IHM-PJ.git
+[submodule "homeworks_files/21-22-dut/S3-PWEB-PJ"]
+	path = homeworks_files/21-22-dut/S3-PWEB-PJ
+	url = https://gitlab.com/LoganTann/S3-PWEB-PJ.git
+[submodule "homeworks_files/21-22-dut/S3-AAV-PJ"]
+	path = homeworks_files/21-22-dut/S3-AAV-PJ
+	url = https://gitlab.com/LoganTann/s3-aav-pj.git
+[submodule "homeworks_files/21-22-dut/S3-Final-PJ"]
+	path = homeworks_files/21-22-dut/S3-Final-PJ
+	url = https://gitlab.com/LoganTann/S3-Final-PJ
+[submodule "homeworks_files/21-22-dut/S3-Maths-PJ"]
+	path = homeworks_files/21-22-dut/S3-Maths-PJ
+	url = https://gitlab.com/LoganTann/S3-Maths-PJ.git

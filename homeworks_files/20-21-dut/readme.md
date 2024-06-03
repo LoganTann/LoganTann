@@ -46,4 +46,3 @@ Non-Algorithmic & not published :
   
   > 6 pitch / oral presentation using PowerPoint and Google Slides, 3 research or argumentation written reports with a good design using Word or LibreOffice, 2 business audit projects using Google Sheets and Excel, 2 projects using Microsoft Access
   
-* (S2-C) Expression : [film analysis (Fahrenheit 11/9)](PeriodeC__Expr__analyseFilmique.pdf)
