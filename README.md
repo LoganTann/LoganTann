@@ -27,7 +27,7 @@
 ### Quick links
 
 * Blog / Knowldge sharing space on [LoganTann/discussions](https://github.com/LoganTann/LoganTann/discussions)
-* Most school projets are archived on [gitlab.com/LoganTann](https://gitlab.com/users/LoganTann/projects)
+* Most school projets are archived on [gitlab.com/LoganTann](https://gitlab.com/users/LoganTann/projects) and [LoganTann/homeworks_files](homeworks_files)
 
 ### Technical mood (2024 - Semester 2)
 
