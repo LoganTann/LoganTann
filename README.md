@@ -30,9 +30,9 @@
 
 | Project | Description | Tech-stack |
 | -------------- | -------------- | ------------- |
-| *Apprenticeship* | R&D work on a tool to create efficient data migration scenarios across salesforce instances | Next.js (react) - Nest.js + Rx.js - Salesforce ecosystem - Clean Architecture |
-| *Studies* | Distributed databases, Linux NFS, Microservices... | Many, Many things :skull: |
+| *Apprenticeship* | R&D work on a tool to create efficient data migration scenarios across salesforce instances | Next.js (react) - Nest.js + Rx.js - Salesforce ecosystem - Clean Architecture - Typst |
 | *Teaching* | Secretary of the One Panthéon non-profit organization. Also organizing IT workshops at school. | Figma, Powerpoint, Notion |
+| *Studies* | On vacation | N/A |
 <!--
 ![LWC](https://media.discordapp.net/attachments/974222396200452128/997995044235640913/unknown.png?width=30&height=30) ![Apex](https://media.discordapp.net/attachments/974222396200452128/997995044608946279/unknown.png?width=30&height=30) 
 
