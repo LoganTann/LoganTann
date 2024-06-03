@@ -1,30 +1,39 @@
 [submodule "homeworks_private"]
 	path = homeworks_private
 	url = https://gitlab.com/LoganTann/school-private.git
-[submodule "homeworks_files/20-21-dut/S1-BPO-PJ"]
-	path = homeworks_files/20-21-dut/S1-BPO-PJ
+[submodule "homeworks_files/20-21-dut-1/S1-BPO-PJ"]
+	path = homeworks_files/20-21-dut-1/S1-BPO-PJ
 	url = https://gitlab.com/LoganTann/s1-bpo-pj.git
-[submodule "homeworks_files/20-21-dut/S1-IAP-PJ"]
-	path = homeworks_files/20-21-dut/S1-IAP-PJ
+[submodule "homeworks_files/20-21-dut-1/S1-IAP-PJ"]
+	path = homeworks_files/20-21-dut-1/S1-IAP-PJ
 	url = https://gitlab.com/LoganTann/s1-iap-pj.git
-[submodule "homeworks_files/20-21-dut/S2-PWEBC-PJ"]
-	path = homeworks_files/20-21-dut/S2-PWEBC-PJ
+[submodule "homeworks_files/20-21-dut-1/S2-PWEBC-PJ"]
+	path = homeworks_files/20-21-dut-1/S2-PWEBC-PJ
 	url = https://gitlab.com/LoganTann/s2-pwebc-pj.git
-[submodule "homeworks_files/20-21-dut/S2-BPO-PJ"]
-	path = homeworks_files/20-21-dut/S2-BPO-PJ
+[submodule "homeworks_files/20-21-dut-1/S2-BPO-PJ"]
+	path = homeworks_files/20-21-dut-1/S2-BPO-PJ
 	url = https://gitlab.com/LoganTann/S2-BPO-PJ.git
-[submodule "homeworks_files/20-21-dut/S2-IHM-PJ"]
-	path = homeworks_files/20-21-dut/S2-IHM-PJ
+[submodule "homeworks_files/20-21-dut-1/S2-IHM-PJ"]
+	path = homeworks_files/20-21-dut-1/S2-IHM-PJ
 	url = https://gitlab.com/lacremedudevops/S2-IHM-PJ.git
-[submodule "homeworks_files/21-22-dut/S3-PWEB-PJ"]
-	path = homeworks_files/21-22-dut/S3-PWEB-PJ
+[submodule "homeworks_files/21-22-dut-2/S3-PWEB-PJ"]
+	path = homeworks_files/21-22-dut-2/S3-PWEB-PJ
 	url = https://gitlab.com/LoganTann/S3-PWEB-PJ.git
-[submodule "homeworks_files/21-22-dut/S3-AAV-PJ"]
-	path = homeworks_files/21-22-dut/S3-AAV-PJ
+[submodule "homeworks_files/21-22-dut-2/S3-AAV-PJ"]
+	path = homeworks_files/21-22-dut-2/S3-AAV-PJ
 	url = https://gitlab.com/LoganTann/s3-aav-pj.git
-[submodule "homeworks_files/21-22-dut/S3-Final-PJ"]
-	path = homeworks_files/21-22-dut/S3-Final-PJ
+[submodule "homeworks_files/21-22-dut-2/S3-Final-PJ"]
+	path = homeworks_files/21-22-dut-2/S3-Final-PJ
 	url = https://gitlab.com/LoganTann/S3-Final-PJ
-[submodule "homeworks_files/21-22-dut/S3-Maths-PJ"]
-	path = homeworks_files/21-22-dut/S3-Maths-PJ
+[submodule "homeworks_files/21-22-dut-2/S3-Maths-PJ"]
+	path = homeworks_files/21-22-dut-2/S3-Maths-PJ
 	url = https://gitlab.com/LoganTann/S3-Maths-PJ.git
+[submodule "homeworks_files/23-24-efrei-M1/S8-Devops-TP"]
+	path = homeworks_files/23-24-efrei-M1/S8-Devops-TP
+	url = https://gitlab.com/LoganTann/S8-Devops-TP.git
+[submodule "homeworks_files/21-22-dut-2/S3-JEE-PJ"]
+	path = homeworks_files/21-22-dut-2/S3-JEE-PJ
+	url = https://gitlab.com/LoganTann/S3-JEE-PJ
+[submodule "homeworks_files/21-22-dut-2/S4-AppRef-PJ"]
+	path = homeworks_files/21-22-dut-2/S4-AppRef-PJ
+	url = https://gitlab.com/LoganTann/S4-AppRef-PJ
