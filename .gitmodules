@@ -1,9 +1,18 @@
-[submodule "homeworks_files/homework_files/school-private"]
-	path = homeworks_files/homework_files/school-private
-	url = https://gitlab.com/LoganTann/school-private.git
-[submodule "homeworks_files/private"]
-	path = homeworks_files/private
-	url = https://gitlab.com/LoganTann/school-private.git
 [submodule "homeworks_private"]
 	path = homeworks_private
 	url = https://gitlab.com/LoganTann/school-private.git
+[submodule "homeworks_files/20-21-dut/S1-BPO-PJ"]
+	path = homeworks_files/20-21-dut/S1-BPO-PJ
+	url = https://gitlab.com/LoganTann/s1-bpo-pj.git
+[submodule "homeworks_files/20-21-dut/S1-IAP-PJ"]
+	path = homeworks_files/20-21-dut/S1-IAP-PJ
+	url = https://gitlab.com/LoganTann/s1-iap-pj.git
+[submodule "homeworks_files/20-21-dut/S2-PWEBC-PJ"]
+	path = homeworks_files/20-21-dut/S2-PWEBC-PJ
+	url = https://gitlab.com/LoganTann/s2-pwebc-pj.git
+[submodule "homeworks_files/20-21-dut/S2-BPO-PJ"]
+	path = homeworks_files/20-21-dut/S2-BPO-PJ
+	url = https://gitlab.com/LoganTann/S2-BPO-PJ.git
+[submodule "homeworks_files/20-21-dut/S2-IHM-PJ"]
+	path = homeworks_files/20-21-dut/S2-IHM-PJ
+	url = https://gitlab.com/lacremedudevops/S2-IHM-PJ.git
