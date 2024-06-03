@@ -4,3 +4,6 @@
 [submodule "homeworks_files/private"]
 	path = homeworks_files/private
 	url = https://gitlab.com/LoganTann/school-private.git
+[submodule "homeworks_private"]
+	path = homeworks_private
+	url = https://gitlab.com/LoganTann/school-private.git
