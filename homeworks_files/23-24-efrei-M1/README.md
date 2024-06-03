@@ -42,10 +42,10 @@
 
 ### UE - Informatique fondamentale - (ECTS 8) 
 
-* Cryptographie : Lost
+* Cryptographie : N/A
 * Modélisation des systèmes d'information : Lost
-* Sécurité informatique : Lost
-* Environnement DOTNET et C# [S7-Csharp-PJ (priv)](https://gitlab.com/LoganTann/efrei-p2025-csharp)
+* Sécurité informatique : N/A
+* Environnement DOTNET et C# [S7-Csharp-PJ (request access)](https://gitlab.com/LoganTann/efrei-p2025-csharp)
 * Programmation Avancée : [S7-Java-PJ (gitlab)](https://gitlab.com/LoganTann/S7-Java-PJ)
 * Programmation fonctionnelle (Scala) [S7-Scala-PJ (gitlab)](https://gitlab.com/LoganTann/S7-Scala-PJ)
 * Systèmes temps réel : Lost
