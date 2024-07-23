@@ -1,0 +1,33 @@
+body:
+  - type: textarea
+    label: Cartouche
+    attributes:
+      value: |
+        > In this space, you can find some errors I faced and how I solved them.
+        > If this helped you, react to this post :D
+
+  - type: textarea
+    attributes:
+      label: Context
+      value: |
+        * This feature exists
+
+  - type: textarea
+    attributes:
+      label: Issue faced
+      value: |
+        I needed to
+        
+        I struggled to
+
+  - type: textarea
+    attributes:
+      label: Investigation
+      value: |
+        I searched
+
+  - type: textarea
+    attributes:
+      label: Final solution
+      value: |
+        I did
