@@ -2,11 +2,11 @@
 
 ## Hey there, I'm Logan :wave: 
 
-👨‍🎓 4th year Software Engineering Student at Efrei Paris
+👨‍🎓 5th year Software Engineering Student at Efrei Paris
 
 :cloud: Part-time Fullstack Developer (Node.Js / salesforce)
 
-💻 Member of the board at [@OnePantheon](https://github.com/onepantheon) 
+💻 Member of the board at [@OnePantheon](https://github.com/onepantheon)  and [FNEIR](https://fneir.github.io) 
 
 :heart: [Kagescan](https://kagescan.fr)'s Community Leader [(github)](https://github.com/Kagescan)
 
@@ -28,6 +28,7 @@
 
 * Blog / Knowldge sharing space on [LoganTann/discussions](https://github.com/LoganTann/LoganTann/discussions)
 * Most school projets are archived on [gitlab.com/LoganTann](https://gitlab.com/users/LoganTann/projects) and [LoganTann/homeworks_files](homeworks_files)
+* Personal keyboards shortcuts on [gists](https://gist.github.com/LoganTann/d42bd271b6a697ff85569ddac19e97b9)
 
 ### Technical mood (2024 - Semester 2)
 
