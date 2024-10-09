@@ -8,8 +8,6 @@
 
 💻 Member of the board at [@OnePantheon](https://github.com/onepantheon)  and [FNEIR](https://fneir.github.io) 
 
-:heart: [Kagescan](https://kagescan.fr)'s Community Leader [(github)](https://github.com/Kagescan)
-
 
 <img width=1000/>
 
