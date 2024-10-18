@@ -28,6 +28,8 @@
 * Most school projets are archived on [gitlab.com/LoganTann](https://gitlab.com/users/LoganTann/projects) and [LoganTann/homeworks_files](homeworks_files)
 * Personal keyboards shortcuts on [gists](https://gist.github.com/LoganTann/d42bd271b6a697ff85569ddac19e97b9)
 
+<!--
+
 ### Technical mood (2024 - Semester 2)
 
 | Project | Description | Tech-stack |
@@ -35,7 +37,7 @@
 | *Teaching* | Secretary of the One Panthéon non-profit organization. Also organizing IT workshops at school. | Figma, Powerpoint, Notion |
 | *Apprenticeship* | On vacation | N/A |
 | *Studies* | On vacation | N/A |
-<!--
+
 ![LWC](https://media.discordapp.net/attachments/974222396200452128/997995044235640913/unknown.png?width=30&height=30) ![Apex](https://media.discordapp.net/attachments/974222396200452128/997995044608946279/unknown.png?width=30&height=30) 
 
 | - No personal projects - | *Overwhelmed by school* | x |
