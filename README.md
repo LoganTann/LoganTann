@@ -1,17 +1,5 @@
-<table><tr><td>
 
 ## Hey there, I'm Logan :wave: 
-
-👨‍🎓 5th year Software Engineering Student at Efrei Paris
-
-:cloud: Part-time Fullstack Developer (Node.Js / salesforce)
-
-💻 Member of the board at [@OnePantheon](https://github.com/onepantheon)  and [FNEIR](https://fneir.github.io) 
-
-
-<img width=1000/>
-
-</td><td>
 
 ```css 
            _
@@ -19,8 +7,6 @@
           (___/
 ^~^~^~^~^~^~^~^~^~^~^~^~
 ```
-
-</td></tr></table>
 
 ### Quick links
 
