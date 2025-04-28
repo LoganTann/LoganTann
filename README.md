@@ -1,6 +1,10 @@
 
 ## Hey there, I'm Logan :wave: 
 
+Professional full-stack developer who works on horrible stacks in spite of himself (or not...) : Salesforce, JQuery, even CGI bash web servers...
+
+Most of my personal projects are POCs or spur-of-the-moment ideas, never finalized.
+
 ```css 
            _
   Quack! >(.)__
